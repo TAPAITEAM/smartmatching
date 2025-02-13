@@ -83,17 +83,18 @@ def main():
                     with st.expander(f"👨‍💼 Consultant {i}: {consultant['Fullname']}"):
                         cols = st.columns(2)
                         with cols[0]:
-                            st.markdown(f"**💸 Financexpertise:** {consultant['Financexpertise']}")
+                            st.markdown(f"**💸 Financeexpertise:** {consultant['Financeexpertise']}")
                             st.markdown(f"**💰 Lightfinance:** {consultant['Lightfinance']}")
                             st.markdown(f"**🎖️ Strategyexpertise:** {consultant['Strategyexpertise']}")
                             st.markdown(f"**📌 Entrepreneurshipexpertise:** {consultant['Entrepreneurshipexpertise']}")
                             st.markdown(f"**🚚 Operationsexpertise:** {consultant['Operationsexpertise']}")
                             st.markdown(f"**💼 Marketingexpertise:** {consultant['Marketingexpertise']}")
                         with cols[1]:
-                            st.markdown(f"**📕 Areasofexpertise:** {consultant['Areasofexpertise']}")
-                            st.markdown(f"**📗 Industryexpertise:** {consultant['Industryexpertise']}")
+                            st.markdown(f"**📚 Areas & Skills:** {consultant['Areaskills']}")
+                            st.markdown(f"**🏢 Industry Skills:** {consultant['Industryskills']}")
                             st.markdown(f"**📅 Consultantavailabilitystatus:** {consultant['Consultantavailabilitystatus']}")
                             st.markdown(f"**📆 Anticipatedavailabilitydate:** {consultant['Anticipatedavailabilitydate']}")
+                            st.markdown(f"**📝 Comments:** {consultant['Comments']}")
                         
                         st.markdown("---")
                         st.markdown("**🔍 Match Analysis:**")
@@ -127,17 +128,18 @@ def main():
                                             with st.expander(f"👨‍💼 Consultant {i}: {consultant['Fullname']}"):
                                                 cols = st.columns(2)
                                                 with cols[0]:
-                                                    st.markdown(f"**💸 Financexpertise:** {consultant['Financexpertise']}")
+                                                    st.markdown(f"**💸 Financeexpertise:** {consultant['Financeexpertise']}")
                                                     st.markdown(f"**💰 Lightfinance:** {consultant['Lightfinance']}")
                                                     st.markdown(f"**🎖️ Strategyexpertise:** {consultant['Strategyexpertise']}")
                                                     st.markdown(f"**📌 Entrepreneurshipexpertise:** {consultant['Entrepreneurshipexpertise']}")
                                                     st.markdown(f"**🚚 Operationsexpertise:** {consultant['Operationsexpertise']}")
                                                     st.markdown(f"**💼 Marketingexpertise:** {consultant['Marketingexpertise']}")
                                                 with cols[1]:
-                                                    st.markdown(f"**📕 Areasofexpertise:** {consultant['Areasofexpertise']}")
-                                                    st.markdown(f"**📗 Industryexpertise:** {consultant['Industryexpertise']}")
+                                                    st.markdown(f"**📚 Areas & Skills:** {consultant['Areaskills']}")
+                                                    st.markdown(f"**🏢 Industry Skills:** {consultant['Industryskills']}")
                                                     st.markdown(f"**📅 Consultantavailabilitystatus:** {consultant['Consultantavailabilitystatus']}")
                                                     st.markdown(f"**📆 Anticipatedavailabilitydate:** {consultant['Anticipatedavailabilitydate']}")
+                                                    st.markdown(f"**📝 Comments:** {consultant['Comments']}")
                                                 
                                                 st.markdown("---")
                                                 st.markdown("**🔍 Match Analysis:**")

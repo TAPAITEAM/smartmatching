@@ -1,0 +1,2678 @@
+8.0K	./.streamlit
+ 24K	./__pycache__
+140K	./.venv/bin
+  0B	./.venv/include/python3.11
+  0B	./.venv/include
+4.0K	./.venv/etc/jupyter/nbconfig/notebook.d
+4.0K	./.venv/etc/jupyter/nbconfig
+4.0K	./.venv/etc/jupyter
+4.0K	./.venv/etc
+4.0K	./.venv/lib/python3.11/site-packages/orjson/__pycache__
+552K	./.venv/lib/python3.11/site-packages/orjson
+256K	./.venv/lib/python3.11/site-packages/marshmallow/__pycache__
+460K	./.venv/lib/python3.11/site-packages/marshmallow
+ 36K	./.venv/lib/python3.11/site-packages/mdurl/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/mdurl
+ 60K	./.venv/lib/python3.11/site-packages/packaging/licenses/__pycache__
+116K	./.venv/lib/python3.11/site-packages/packaging/licenses
+224K	./.venv/lib/python3.11/site-packages/packaging/__pycache__
+532K	./.venv/lib/python3.11/site-packages/packaging
+ 20K	./.venv/lib/python3.11/site-packages/aiohttp/.hash
+1.1M	./.venv/lib/python3.11/site-packages/aiohttp/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/aiohttp/_websocket/.hash
+ 68K	./.venv/lib/python3.11/site-packages/aiohttp/_websocket/__pycache__
+460K	./.venv/lib/python3.11/site-packages/aiohttp/_websocket
+2.8M	./.venv/lib/python3.11/site-packages/aiohttp
+ 16K	./.venv/lib/python3.11/site-packages/pygments-2.19.1.dist-info/licenses
+ 80K	./.venv/lib/python3.11/site-packages/pygments-2.19.1.dist-info
+404K	./.venv/lib/python3.11/site-packages/pandas-2.2.3.dist-info
+8.0K	./.venv/lib/python3.11/site-packages/pyasn1/compat/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/pyasn1/compat
+ 32K	./.venv/lib/python3.11/site-packages/pyasn1/codec/native/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/pyasn1/codec/native
+ 12K	./.venv/lib/python3.11/site-packages/pyasn1/codec/der/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/pyasn1/codec/der
+ 28K	./.venv/lib/python3.11/site-packages/pyasn1/codec/cer/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pyasn1/codec/cer
+ 16K	./.venv/lib/python3.11/site-packages/pyasn1/codec/__pycache__
+124K	./.venv/lib/python3.11/site-packages/pyasn1/codec/ber/__pycache__
+244K	./.venv/lib/python3.11/site-packages/pyasn1/codec/ber
+408K	./.venv/lib/python3.11/site-packages/pyasn1/codec
+ 20K	./.venv/lib/python3.11/site-packages/pyasn1/__pycache__
+300K	./.venv/lib/python3.11/site-packages/pyasn1/type/__pycache__
+528K	./.venv/lib/python3.11/site-packages/pyasn1/type
+984K	./.venv/lib/python3.11/site-packages/pyasn1
+236K	./.venv/lib/python3.11/site-packages/langchain-0.3.14.dist-info
+384K	./.venv/lib/python3.11/site-packages/langgraph/pregel/__pycache__
+692K	./.venv/lib/python3.11/site-packages/langgraph/pregel
+ 32K	./.venv/lib/python3.11/site-packages/langgraph/managed/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langgraph/managed
+ 28K	./.venv/lib/python3.11/site-packages/langgraph/checkpoint/memory/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langgraph/checkpoint/memory
+ 40K	./.venv/lib/python3.11/site-packages/langgraph/checkpoint/serde/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/langgraph/checkpoint/serde
+ 28K	./.venv/lib/python3.11/site-packages/langgraph/checkpoint/base/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langgraph/checkpoint/base
+168K	./.venv/lib/python3.11/site-packages/langgraph/checkpoint
+108K	./.venv/lib/python3.11/site-packages/langgraph/graph/__pycache__
+188K	./.venv/lib/python3.11/site-packages/langgraph/graph
+ 12K	./.venv/lib/python3.11/site-packages/langgraph/_api/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langgraph/_api
+ 80K	./.venv/lib/python3.11/site-packages/langgraph/utils/__pycache__
+144K	./.venv/lib/python3.11/site-packages/langgraph/utils
+ 44K	./.venv/lib/python3.11/site-packages/langgraph/__pycache__
+116K	./.venv/lib/python3.11/site-packages/langgraph/prebuilt/__pycache__
+212K	./.venv/lib/python3.11/site-packages/langgraph/prebuilt
+ 32K	./.venv/lib/python3.11/site-packages/langgraph/store/memory/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langgraph/store/memory
+ 68K	./.venv/lib/python3.11/site-packages/langgraph/store/base/__pycache__
+132K	./.venv/lib/python3.11/site-packages/langgraph/store/base
+188K	./.venv/lib/python3.11/site-packages/langgraph/store
+ 60K	./.venv/lib/python3.11/site-packages/langgraph/channels/__pycache__
+104K	./.venv/lib/python3.11/site-packages/langgraph/channels
+ 28K	./.venv/lib/python3.11/site-packages/langgraph/func/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langgraph/func
+1.9M	./.venv/lib/python3.11/site-packages/langgraph
+ 28K	./.venv/lib/python3.11/site-packages/decorator-5.1.1.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/idna-3.10.dist-info
+ 64K	./.venv/lib/python3.11/site-packages/httpcore/_backends/__pycache__
+100K	./.venv/lib/python3.11/site-packages/httpcore/_backends
+148K	./.venv/lib/python3.11/site-packages/httpcore/_async/__pycache__
+264K	./.venv/lib/python3.11/site-packages/httpcore/_async
+ 72K	./.venv/lib/python3.11/site-packages/httpcore/__pycache__
+136K	./.venv/lib/python3.11/site-packages/httpcore/_sync/__pycache__
+252K	./.venv/lib/python3.11/site-packages/httpcore/_sync
+744K	./.venv/lib/python3.11/site-packages/httpcore
+ 64K	./.venv/lib/python3.11/site-packages/msgpack/__pycache__
+316K	./.venv/lib/python3.11/site-packages/msgpack
+ 80K	./.venv/lib/python3.11/site-packages/toml/__pycache__
+144K	./.venv/lib/python3.11/site-packages/toml
+ 44K	./.venv/lib/python3.11/site-packages/pyasn1_modules-0.4.1.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/markupsafe/__pycache__
+116K	./.venv/lib/python3.11/site-packages/markupsafe
+248K	./.venv/lib/python3.11/site-packages/googleapiclient/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/googleapiclient/discovery_cache/__pycache__
+ 79M	./.venv/lib/python3.11/site-packages/googleapiclient/discovery_cache/documents
+ 79M	./.venv/lib/python3.11/site-packages/googleapiclient/discovery_cache
+ 80M	./.venv/lib/python3.11/site-packages/googleapiclient
+ 44K	./.venv/lib/python3.11/site-packages/google_auth_oauthlib/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/google_auth_oauthlib/tool/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/google_auth_oauthlib/tool
+100K	./.venv/lib/python3.11/site-packages/google_auth_oauthlib
+ 28K	./.venv/lib/python3.11/site-packages/multidict-6.1.0.dist-info
+ 20K	./.venv/lib/python3.11/site-packages/langsmith/beta/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langsmith/beta
+116K	./.venv/lib/python3.11/site-packages/langsmith/_internal/__pycache__
+200K	./.venv/lib/python3.11/site-packages/langsmith/_internal
+ 24K	./.venv/lib/python3.11/site-packages/langsmith/wrappers/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langsmith/wrappers
+604K	./.venv/lib/python3.11/site-packages/langsmith/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langsmith/cli/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langsmith/cli
+ 20K	./.venv/lib/python3.11/site-packages/langsmith/env/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langsmith/env
+236K	./.venv/lib/python3.11/site-packages/langsmith/evaluation/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langsmith/evaluation/integrations/__pycache__
+200K	./.venv/lib/python3.11/site-packages/langsmith/evaluation/integrations
+632K	./.venv/lib/python3.11/site-packages/langsmith/evaluation
+2.1M	./.venv/lib/python3.11/site-packages/langsmith
+176K	./.venv/lib/python3.11/site-packages/h11/tests/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/h11/tests/data
+288K	./.venv/lib/python3.11/site-packages/h11/tests
+112K	./.venv/lib/python3.11/site-packages/h11/__pycache__
+524K	./.venv/lib/python3.11/site-packages/h11
+104K	./.venv/lib/python3.11/site-packages/pillow-11.1.0.dist-info
+ 44K	./.venv/lib/python3.11/site-packages/lxml-5.3.0.dist-info
+ 68K	./.venv/lib/python3.11/site-packages/requests_oauthlib/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/requests_oauthlib/compliance_fixes/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/requests_oauthlib/compliance_fixes
+204K	./.venv/lib/python3.11/site-packages/requests_oauthlib
+ 28K	./.venv/lib/python3.11/site-packages/toml-0.10.2.dist-info
+ 64K	./.venv/lib/python3.11/site-packages/streamlit/watcher/__pycache__
+120K	./.venv/lib/python3.11/site-packages/streamlit/watcher
+348K	./.venv/lib/python3.11/site-packages/streamlit/proto/__pycache__
+1.1M	./.venv/lib/python3.11/site-packages/streamlit/proto
+100K	./.venv/lib/python3.11/site-packages/streamlit/web/server/__pycache__
+184K	./.venv/lib/python3.11/site-packages/streamlit/web/server
+ 40K	./.venv/lib/python3.11/site-packages/streamlit/web/__pycache__
+256K	./.venv/lib/python3.11/site-packages/streamlit/web
+332K	./.venv/lib/python3.11/site-packages/streamlit/runtime/__pycache__
+108K	./.venv/lib/python3.11/site-packages/streamlit/runtime/state/__pycache__
+192K	./.venv/lib/python3.11/site-packages/streamlit/runtime/state
+ 52K	./.venv/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/__pycache__
+112K	./.venv/lib/python3.11/site-packages/streamlit/runtime/scriptrunner
+144K	./.venv/lib/python3.11/site-packages/streamlit/runtime/caching/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/streamlit/runtime/caching/storage/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/streamlit/runtime/caching/storage
+352K	./.venv/lib/python3.11/site-packages/streamlit/runtime/caching
+ 36K	./.venv/lib/python3.11/site-packages/streamlit/runtime/scriptrunner_utils/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/streamlit/runtime/scriptrunner_utils
+1.3M	./.venv/lib/python3.11/site-packages/streamlit/runtime
+ 20K	./.venv/lib/python3.11/site-packages/streamlit/navigation/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/streamlit/navigation
+488K	./.venv/lib/python3.11/site-packages/streamlit/__pycache__
+172K	./.venv/lib/python3.11/site-packages/streamlit/testing/v1/__pycache__
+292K	./.venv/lib/python3.11/site-packages/streamlit/testing/v1
+4.0K	./.venv/lib/python3.11/site-packages/streamlit/testing/__pycache__
+300K	./.venv/lib/python3.11/site-packages/streamlit/testing
+ 76K	./.venv/lib/python3.11/site-packages/streamlit/connections/__pycache__
+144K	./.venv/lib/python3.11/site-packages/streamlit/connections
+ 36K	./.venv/lib/python3.11/site-packages/streamlit/components/v1/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/streamlit/components/v1
+ 16K	./.venv/lib/python3.11/site-packages/streamlit/components/types/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/streamlit/components/types
+4.0K	./.venv/lib/python3.11/site-packages/streamlit/components/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/streamlit/components/lib/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/streamlit/components/lib
+132K	./.venv/lib/python3.11/site-packages/streamlit/components
+480K	./.venv/lib/python3.11/site-packages/streamlit/elements/__pycache__
+252K	./.venv/lib/python3.11/site-packages/streamlit/elements/lib/__pycache__
+496K	./.venv/lib/python3.11/site-packages/streamlit/elements/lib
+380K	./.venv/lib/python3.11/site-packages/streamlit/elements/widgets/__pycache__
+748K	./.venv/lib/python3.11/site-packages/streamlit/elements/widgets
+2.1M	./.venv/lib/python3.11/site-packages/streamlit/elements
+ 88K	./.venv/lib/python3.11/site-packages/streamlit/static/static/css
+ 19M	./.venv/lib/python3.11/site-packages/streamlit/static/static/js
+2.9M	./.venv/lib/python3.11/site-packages/streamlit/static/static/media
+ 22M	./.venv/lib/python3.11/site-packages/streamlit/static/static
+ 22M	./.venv/lib/python3.11/site-packages/streamlit/static
+ 68K	./.venv/lib/python3.11/site-packages/streamlit/commands/__pycache__
+132K	./.venv/lib/python3.11/site-packages/streamlit/commands
+ 32K	./.venv/lib/python3.11/site-packages/streamlit/hello/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/streamlit/hello
+ 24K	./.venv/lib/python3.11/site-packages/streamlit/external/langchain/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/streamlit/external/langchain
+4.0K	./.venv/lib/python3.11/site-packages/streamlit/external/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/streamlit/external
+8.0K	./.venv/lib/python3.11/site-packages/streamlit/vendor/ipython/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/streamlit/vendor/ipython
+4.0K	./.venv/lib/python3.11/site-packages/streamlit/vendor/__pycache__
+108K	./.venv/lib/python3.11/site-packages/streamlit/vendor/pympler/__pycache__
+196K	./.venv/lib/python3.11/site-packages/streamlit/vendor/pympler
+212K	./.venv/lib/python3.11/site-packages/streamlit/vendor
+ 29M	./.venv/lib/python3.11/site-packages/streamlit
+ 68K	./.venv/lib/python3.11/site-packages/dotenv/__pycache__
+120K	./.venv/lib/python3.11/site-packages/dotenv
+ 20K	./.venv/lib/python3.11/site-packages/langchain_openai-0.3.0.dist-info
+ 40K	./.venv/lib/python3.11/site-packages/annotated_types/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/annotated_types
+ 24K	./.venv/lib/python3.11/site-packages/langgraph_checkpoint-2.0.10.dist-info
+ 64K	./.venv/lib/python3.11/site-packages/sqlparse/filters/__pycache__
+108K	./.venv/lib/python3.11/site-packages/sqlparse/filters
+132K	./.venv/lib/python3.11/site-packages/sqlparse/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/sqlparse/engine/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/sqlparse/engine
+412K	./.venv/lib/python3.11/site-packages/sqlparse
+ 24K	./.venv/lib/python3.11/site-packages/attrs/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/attrs
+ 48K	./.venv/lib/python3.11/site-packages/google_generativeai-0.8.3.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/duckdb-1.1.3.dist-info
+ 12K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc8628/clients/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc8628/clients
+4.0K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc8628/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc8628
+ 88K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749/clients/__pycache__
+160K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749/clients
+ 80K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749/endpoints/__pycache__
+152K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749/endpoints
+104K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749/grant_types/__pycache__
+184K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749/grant_types
+688K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/rfc6749
+4.0K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2/__pycache__
+724K	./.venv/lib/python3.11/site-packages/oauthlib/oauth2
+ 40K	./.venv/lib/python3.11/site-packages/oauthlib/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/oauthlib/openid/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect/core/endpoints/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect/core/endpoints
+ 32K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect/core/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect/core/grant_types/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect/core/grant_types
+180K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect/core
+4.0K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect/__pycache__
+184K	./.venv/lib/python3.11/site-packages/oauthlib/openid/connect
+192K	./.venv/lib/python3.11/site-packages/oauthlib/openid
+ 64K	./.venv/lib/python3.11/site-packages/oauthlib/oauth1/rfc5849/endpoints/__pycache__
+128K	./.venv/lib/python3.11/site-packages/oauthlib/oauth1/rfc5849/endpoints
+104K	./.venv/lib/python3.11/site-packages/oauthlib/oauth1/rfc5849/__pycache__
+332K	./.venv/lib/python3.11/site-packages/oauthlib/oauth1/rfc5849
+4.0K	./.venv/lib/python3.11/site-packages/oauthlib/oauth1/__pycache__
+340K	./.venv/lib/python3.11/site-packages/oauthlib/oauth1
+1.3M	./.venv/lib/python3.11/site-packages/oauthlib
+ 40K	./.venv/lib/python3.11/site-packages/pygments/filters/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/pygments/filters
+3.7M	./.venv/lib/python3.11/site-packages/pygments/lexers/__pycache__
+7.9M	./.venv/lib/python3.11/site-packages/pygments/lexers
+204K	./.venv/lib/python3.11/site-packages/pygments/formatters/__pycache__
+372K	./.venv/lib/python3.11/site-packages/pygments/formatters
+208K	./.venv/lib/python3.11/site-packages/pygments/__pycache__
+224K	./.venv/lib/python3.11/site-packages/pygments/styles/__pycache__
+448K	./.venv/lib/python3.11/site-packages/pygments/styles
+9.2M	./.venv/lib/python3.11/site-packages/pygments
+ 28K	./.venv/lib/python3.11/site-packages/pydeck-0.9.1.dist-info
+ 20K	./.venv/lib/python3.11/site-packages/langchain_google_genai-2.0.8.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/proto/marshal/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/proto/marshal/rules/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/proto/marshal/rules
+ 20K	./.venv/lib/python3.11/site-packages/proto/marshal/collections/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/proto/marshal/collections
+164K	./.venv/lib/python3.11/site-packages/proto/marshal
+104K	./.venv/lib/python3.11/site-packages/proto/__pycache__
+364K	./.venv/lib/python3.11/site-packages/proto
+556K	./.venv/lib/python3.11/site-packages/PyPDF2/__pycache__
+164K	./.venv/lib/python3.11/site-packages/PyPDF2/generic/__pycache__
+292K	./.venv/lib/python3.11/site-packages/PyPDF2/generic
+688K	./.venv/lib/python3.11/site-packages/PyPDF2/_codecs/__pycache__
+1.1M	./.venv/lib/python3.11/site-packages/PyPDF2/_codecs
+2.4M	./.venv/lib/python3.11/site-packages/PyPDF2
+4.0K	./.venv/lib/python3.11/site-packages/rpds/__pycache__
+952K	./.venv/lib/python3.11/site-packages/rpds
+ 16K	./.venv/lib/python3.11/site-packages/propcache/__pycache__
+164K	./.venv/lib/python3.11/site-packages/propcache
+ 36K	./.venv/lib/python3.11/site-packages/python_docx-1.1.2.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/msgpack-1.1.0.dist-info
+132K	./.venv/lib/python3.11/site-packages/httplib2/__pycache__
+376K	./.venv/lib/python3.11/site-packages/httplib2
+4.0K	./.venv/lib/python3.11/site-packages/referencing-0.35.1.dist-info/licenses
+ 20K	./.venv/lib/python3.11/site-packages/referencing-0.35.1.dist-info
+ 44K	./.venv/lib/python3.11/site-packages/googleapis_common_protos-1.66.0.dist-info
+ 36K	./.venv/lib/python3.11/site-packages/requests-2.32.3.dist-info
+100K	./.venv/lib/python3.11/site-packages/grpc/beta/__pycache__
+180K	./.venv/lib/python3.11/site-packages/grpc/beta
+4.0K	./.venv/lib/python3.11/site-packages/grpc/experimental/aio/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/grpc/experimental/aio
+ 16K	./.venv/lib/python3.11/site-packages/grpc/experimental/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/grpc/experimental
+ 48K	./.venv/lib/python3.11/site-packages/grpc/framework/foundation/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/grpc/framework/foundation
+4.0K	./.venv/lib/python3.11/site-packages/grpc/framework/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/grpc/framework/common/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/grpc/framework/common
+ 60K	./.venv/lib/python3.11/site-packages/grpc/framework/interfaces/face/__pycache__
+112K	./.venv/lib/python3.11/site-packages/grpc/framework/interfaces/face
+4.0K	./.venv/lib/python3.11/site-packages/grpc/framework/interfaces/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/grpc/framework/interfaces/base/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/grpc/framework/interfaces/base
+164K	./.venv/lib/python3.11/site-packages/grpc/framework/interfaces
+284K	./.venv/lib/python3.11/site-packages/grpc/framework
+204K	./.venv/lib/python3.11/site-packages/grpc/aio/__pycache__
+372K	./.venv/lib/python3.11/site-packages/grpc/aio
+408K	./.venv/lib/python3.11/site-packages/grpc/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/grpc/_cython/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/grpc/_cython/_cygrpc/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/grpc/_cython/_cygrpc
+260K	./.venv/lib/python3.11/site-packages/grpc/_cython/_credentials
+ 37M	./.venv/lib/python3.11/site-packages/grpc/_cython
+ 38M	./.venv/lib/python3.11/site-packages/grpc
+ 44K	./.venv/lib/python3.11/site-packages/frozenlist-1.5.0.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/pyparsing/diagram/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/pyparsing/diagram
+504K	./.venv/lib/python3.11/site-packages/pyparsing/__pycache__
+952K	./.venv/lib/python3.11/site-packages/pyparsing
+116K	./.venv/lib/python3.11/site-packages/pip-24.0.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/narwhals-1.22.0.dist-info/licenses
+ 40K	./.venv/lib/python3.11/site-packages/narwhals-1.22.0.dist-info
+ 40K	./.venv/lib/python3.11/site-packages/langchain/chat_loaders/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/langchain/chat_loaders
+220K	./.venv/lib/python3.11/site-packages/langchain/retrievers/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/langchain/retrievers/document_compressors/__pycache__
+136K	./.venv/lib/python3.11/site-packages/langchain/retrievers/document_compressors
+100K	./.venv/lib/python3.11/site-packages/langchain/retrievers/self_query/__pycache__
+196K	./.venv/lib/python3.11/site-packages/langchain/retrievers/self_query
+756K	./.venv/lib/python3.11/site-packages/langchain/retrievers
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/multion/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/tools/multion
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/stackexchange/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/stackexchange
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/reddit_search/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/reddit_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/dataforseo_api_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/dataforseo_api_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/e2b_data_analysis/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/e2b_data_analysis
+ 28K	./.venv/lib/python3.11/site-packages/langchain/tools/ainetwork/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/tools/ainetwork
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/bearly/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/bearly
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/steam/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/steam
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/wikipedia/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/wikipedia
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/spark_sql/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/spark_sql
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/gitlab/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/gitlab
+4.0K	./.venv/lib/python3.11/site-packages/langchain/tools/python/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/python
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/memorize/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/memorize
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/sleep/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/sleep
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/shell/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/shell
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/nuclia/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/nuclia
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/zapier/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/zapier
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_places/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_places
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/searx_search/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/searx_search
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/sql_database/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain/tools/sql_database
+ 24K	./.venv/lib/python3.11/site-packages/langchain/tools/azure_cognitive_services/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/tools/azure_cognitive_services
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/eleven_labs/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain/tools/eleven_labs
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/golden_query/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/golden_query
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/clickup/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/clickup
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/searchapi/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/searchapi
+ 32K	./.venv/lib/python3.11/site-packages/langchain/tools/file_management/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain/tools/file_management
+ 28K	./.venv/lib/python3.11/site-packages/langchain/tools/office365/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain/tools/office365
+ 36K	./.venv/lib/python3.11/site-packages/langchain/tools/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain/tools/playwright/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/langchain/tools/playwright
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/youtube/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/youtube
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/openapi/utils/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain/tools/openapi/utils
+4.0K	./.venv/lib/python3.11/site-packages/langchain/tools/openapi/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain/tools/openapi
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/requests/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/requests
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/wolfram_alpha/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/wolfram_alpha
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_lens/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_lens
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_cloud/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_cloud
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/json/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/json
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/jira/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/jira
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/github/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/github
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/ddg_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/ddg_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/bing_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/bing_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/merriam_webster/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/merriam_webster
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/powerbi/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/powerbi
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/graphql/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/graphql
+ 36K	./.venv/lib/python3.11/site-packages/langchain/tools/edenai/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/langchain/tools/edenai
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_trends/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_trends
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/steamship_image_generation/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/steamship_image_generation
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/tavily_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/tavily_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/brave_search/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/brave_search
+ 24K	./.venv/lib/python3.11/site-packages/langchain/tools/slack/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/tools/slack
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/arxiv/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/arxiv
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_finance/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_finance
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/pubmed/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/pubmed
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/scenexplain/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/scenexplain
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_jobs/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_jobs
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/amadeus/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/tools/amadeus
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/human/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/human
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/openweathermap/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/openweathermap
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/interaction/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/interaction
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/metaphor_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/metaphor_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_scholar/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_scholar
+ 28K	./.venv/lib/python3.11/site-packages/langchain/tools/gmail/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain/tools/gmail
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/vectorstore/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/vectorstore
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/google_serper/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/tools/google_serper
+8.0K	./.venv/lib/python3.11/site-packages/langchain/tools/nasa/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/tools/nasa
+1.4M	./.venv/lib/python3.11/site-packages/langchain/tools
+228K	./.venv/lib/python3.11/site-packages/langchain/embeddings/__pycache__
+452K	./.venv/lib/python3.11/site-packages/langchain/embeddings
+148K	./.venv/lib/python3.11/site-packages/langchain/memory/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/langchain/memory/chat_message_histories/__pycache__
+168K	./.venv/lib/python3.11/site-packages/langchain/memory/chat_message_histories
+432K	./.venv/lib/python3.11/site-packages/langchain/memory
+ 12K	./.venv/lib/python3.11/site-packages/langchain/callbacks/streamlit/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain/callbacks/streamlit
+136K	./.venv/lib/python3.11/site-packages/langchain/callbacks/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/callbacks/tracers/__pycache__
+104K	./.venv/lib/python3.11/site-packages/langchain/callbacks/tracers
+388K	./.venv/lib/python3.11/site-packages/langchain/callbacks
+4.0K	./.venv/lib/python3.11/site-packages/langchain/smith/__pycache__
+132K	./.venv/lib/python3.11/site-packages/langchain/smith/evaluation/__pycache__
+244K	./.venv/lib/python3.11/site-packages/langchain/smith/evaluation
+252K	./.venv/lib/python3.11/site-packages/langchain/smith
+172K	./.venv/lib/python3.11/site-packages/langchain/chat_models/__pycache__
+344K	./.venv/lib/python3.11/site-packages/langchain/chat_models
+ 24K	./.venv/lib/python3.11/site-packages/langchain/_api/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/_api
+ 24K	./.venv/lib/python3.11/site-packages/langchain/agents/self_ask_with_search/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/agents/self_ask_with_search
+ 12K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_tools/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_tools
+ 32K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_functions_agent/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_functions_agent
+ 20K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_functions_multi_agent/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_functions_multi_agent
+ 24K	./.venv/lib/python3.11/site-packages/langchain/agents/chat/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain/agents/chat
+ 12K	./.venv/lib/python3.11/site-packages/langchain/agents/tool_calling_agent/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/tool_calling_agent
+ 28K	./.venv/lib/python3.11/site-packages/langchain/agents/mrkl/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/agents/mrkl
+ 32K	./.venv/lib/python3.11/site-packages/langchain/agents/structured_chat/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/agents/structured_chat
+ 24K	./.venv/lib/python3.11/site-packages/langchain/agents/conversational_chat/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/langchain/agents/conversational_chat
+ 20K	./.venv/lib/python3.11/site-packages/langchain/agents/json_chat/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/agents/json_chat
+132K	./.venv/lib/python3.11/site-packages/langchain/agents/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain/agents/xml/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/agents/xml
+ 40K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_assistant/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/langchain/agents/openai_assistant
+ 48K	./.venv/lib/python3.11/site-packages/langchain/agents/output_parsers/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/langchain/agents/output_parsers
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/multion/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/multion
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/ainetwork/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/ainetwork
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/steam/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/steam
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/spark_sql/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/spark_sql
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/gitlab/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/gitlab
+ 12K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/nla/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/nla
+4.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/python/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/python
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/zapier/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/zapier
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/clickup/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/clickup
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/file_management/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/file_management
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/office365/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/office365
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/playwright/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/playwright
+ 28K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/openapi/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/openapi
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/json/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/json
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/jira/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/jira
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/github/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/github
+ 20K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/powerbi/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/powerbi
+4.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/csv/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/csv
+4.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/xorbits/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/xorbits
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/slack/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/slack
+ 12K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/conversational_retrieval/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/conversational_retrieval
+4.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/amadeus/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/amadeus
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/gmail/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/gmail
+4.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/spark/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/spark
+4.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/pandas/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/pandas
+ 28K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/vectorstore/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/vectorstore
+8.0K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/nasa/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/nasa
+ 16K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/sql/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits/sql
+584K	./.venv/lib/python3.11/site-packages/langchain/agents/agent_toolkits
+ 24K	./.venv/lib/python3.11/site-packages/langchain/agents/conversational/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/langchain/agents/conversational
+ 28K	./.venv/lib/python3.11/site-packages/langchain/agents/format_scratchpad/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain/agents/format_scratchpad
+ 40K	./.venv/lib/python3.11/site-packages/langchain/agents/react/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/langchain/agents/react
+1.6M	./.venv/lib/python3.11/site-packages/langchain/agents
+ 64K	./.venv/lib/python3.11/site-packages/langchain/utils/__pycache__
+128K	./.venv/lib/python3.11/site-packages/langchain/utils
+ 80K	./.venv/lib/python3.11/site-packages/langchain/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/langchain/storage/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/langchain/storage
+ 12K	./.venv/lib/python3.11/site-packages/langchain/runnables/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain/runnables
+236K	./.venv/lib/python3.11/site-packages/langchain/utilities/__pycache__
+476K	./.venv/lib/python3.11/site-packages/langchain/utilities
+ 16K	./.venv/lib/python3.11/site-packages/langchain/vectorstores/redis/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/vectorstores/redis
+ 16K	./.venv/lib/python3.11/site-packages/langchain/vectorstores/docarray/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/vectorstores/docarray
+276K	./.venv/lib/python3.11/site-packages/langchain/vectorstores/__pycache__
+616K	./.venv/lib/python3.11/site-packages/langchain/vectorstores
+8.0K	./.venv/lib/python3.11/site-packages/langchain/adapters/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/adapters
+ 20K	./.venv/lib/python3.11/site-packages/langchain/schema/callbacks/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain/schema/callbacks/tracers/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/langchain/schema/callbacks/tracers
+112K	./.venv/lib/python3.11/site-packages/langchain/schema/callbacks
+ 44K	./.venv/lib/python3.11/site-packages/langchain/schema/runnable/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/langchain/schema/runnable
+ 72K	./.venv/lib/python3.11/site-packages/langchain/schema/__pycache__
+344K	./.venv/lib/python3.11/site-packages/langchain/schema
+ 16K	./.venv/lib/python3.11/site-packages/langchain/load/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/load
+124K	./.venv/lib/python3.11/site-packages/langchain/output_parsers/__pycache__
+232K	./.venv/lib/python3.11/site-packages/langchain/output_parsers
+ 44K	./.venv/lib/python3.11/site-packages/langchain/document_transformers/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/document_transformers/xsl
+ 96K	./.venv/lib/python3.11/site-packages/langchain/document_transformers
+ 24K	./.venv/lib/python3.11/site-packages/langchain/docstore/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/docstore
+ 32K	./.venv/lib/python3.11/site-packages/langchain/prompts/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain/prompts/example_selector/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain/prompts/example_selector
+104K	./.venv/lib/python3.11/site-packages/langchain/prompts
+ 24K	./.venv/lib/python3.11/site-packages/langchain/evaluation/string_distance/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/langchain/evaluation/string_distance
+ 32K	./.venv/lib/python3.11/site-packages/langchain/evaluation/agents/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/langchain/evaluation/agents
+ 36K	./.venv/lib/python3.11/site-packages/langchain/evaluation/qa/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain/evaluation/qa
+ 40K	./.venv/lib/python3.11/site-packages/langchain/evaluation/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain/evaluation/scoring/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/evaluation/scoring
+ 28K	./.venv/lib/python3.11/site-packages/langchain/evaluation/comparison/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/evaluation/comparison
+ 32K	./.venv/lib/python3.11/site-packages/langchain/evaluation/parsing/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/evaluation/parsing
+ 36K	./.venv/lib/python3.11/site-packages/langchain/evaluation/criteria/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/langchain/evaluation/criteria
+8.0K	./.venv/lib/python3.11/site-packages/langchain/evaluation/regex_match/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/evaluation/regex_match
+ 12K	./.venv/lib/python3.11/site-packages/langchain/evaluation/exact_match/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/evaluation/exact_match
+ 28K	./.venv/lib/python3.11/site-packages/langchain/evaluation/embedding_distance/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain/evaluation/embedding_distance
+544K	./.venv/lib/python3.11/site-packages/langchain/evaluation
+8.0K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/parsers/html/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/parsers/html
+ 24K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/parsers/language/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/parsers/language
+ 36K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/parsers/__pycache__
+136K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/parsers
+592K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/blob_loaders/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/document_loaders/blob_loaders
+1.3M	./.venv/lib/python3.11/site-packages/langchain/document_loaders
+ 52K	./.venv/lib/python3.11/site-packages/langchain/graphs/__pycache__
+104K	./.venv/lib/python3.11/site-packages/langchain/graphs
+356K	./.venv/lib/python3.11/site-packages/langchain/llms/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/llms/grammars
+712K	./.venv/lib/python3.11/site-packages/langchain/llms
+ 12K	./.venv/lib/python3.11/site-packages/langchain/chains/openai_tools/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain/chains/openai_tools
+8.0K	./.venv/lib/python3.11/site-packages/langchain/chains/chat_vector_db/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain/chains/chat_vector_db
+ 16K	./.venv/lib/python3.11/site-packages/langchain/chains/hyde/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain/chains/hyde
+ 40K	./.venv/lib/python3.11/site-packages/langchain/chains/question_answering/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/langchain/chains/question_answering
+ 20K	./.venv/lib/python3.11/site-packages/langchain/chains/elasticsearch_database/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain/chains/elasticsearch_database
+ 72K	./.venv/lib/python3.11/site-packages/langchain/chains/openai_functions/__pycache__
+140K	./.venv/lib/python3.11/site-packages/langchain/chains/openai_functions
+ 28K	./.venv/lib/python3.11/site-packages/langchain/chains/sql_database/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain/chains/sql_database
+ 24K	./.venv/lib/python3.11/site-packages/langchain/chains/summarize/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain/chains/summarize
+ 32K	./.venv/lib/python3.11/site-packages/langchain/chains/structured_output/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain/chains/structured_output
+ 24K	./.venv/lib/python3.11/site-packages/langchain/chains/retrieval_qa/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/langchain/chains/retrieval_qa
+ 60K	./.venv/lib/python3.11/site-packages/langchain/chains/qa_with_sources/__pycache__
+112K	./.venv/lib/python3.11/site-packages/langchain/chains/qa_with_sources
+152K	./.venv/lib/python3.11/site-packages/langchain/chains/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_symbolic_math/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_symbolic_math
+ 60K	./.venv/lib/python3.11/site-packages/langchain/chains/graph_qa/__pycache__
+116K	./.venv/lib/python3.11/site-packages/langchain/chains/graph_qa
+ 16K	./.venv/lib/python3.11/site-packages/langchain/chains/qa_generation/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain/chains/qa_generation
+8.0K	./.venv/lib/python3.11/site-packages/langchain/chains/ernie_functions/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/chains/ernie_functions
+ 56K	./.venv/lib/python3.11/site-packages/langchain/chains/constitutional_ai/__pycache__
+116K	./.venv/lib/python3.11/site-packages/langchain/chains/constitutional_ai
+ 36K	./.venv/lib/python3.11/site-packages/langchain/chains/natbot/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/langchain/chains/natbot
+ 44K	./.venv/lib/python3.11/site-packages/langchain/chains/api/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain/chains/api/openapi/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain/chains/api/openapi
+120K	./.venv/lib/python3.11/site-packages/langchain/chains/api
+ 16K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_checker/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_checker
+4.0K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_bash/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_bash
+ 24K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_math/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_math
+ 92K	./.venv/lib/python3.11/site-packages/langchain/chains/combine_documents/__pycache__
+172K	./.venv/lib/python3.11/site-packages/langchain/chains/combine_documents
+ 48K	./.venv/lib/python3.11/site-packages/langchain/chains/query_constructor/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/langchain/chains/query_constructor
+ 32K	./.venv/lib/python3.11/site-packages/langchain/chains/conversational_retrieval/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain/chains/conversational_retrieval
+ 12K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_summarization_checker/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_summarization_checker/prompts
+ 40K	./.venv/lib/python3.11/site-packages/langchain/chains/llm_summarization_checker
+ 20K	./.venv/lib/python3.11/site-packages/langchain/chains/flare/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain/chains/flare
+ 20K	./.venv/lib/python3.11/site-packages/langchain/chains/conversation/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain/chains/conversation
+ 60K	./.venv/lib/python3.11/site-packages/langchain/chains/router/__pycache__
+108K	./.venv/lib/python3.11/site-packages/langchain/chains/router
+2.0M	./.venv/lib/python3.11/site-packages/langchain/chains
+ 12K	./.venv/lib/python3.11/site-packages/langchain/pydantic_v1/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain/pydantic_v1
+ 52K	./.venv/lib/python3.11/site-packages/langchain/indexes/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain/indexes/prompts/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain/indexes/prompts
+128K	./.venv/lib/python3.11/site-packages/langchain/indexes
+ 13M	./.venv/lib/python3.11/site-packages/langchain
+ 32K	./.venv/lib/python3.11/site-packages/httpx_sse-0.4.0.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/oauth2client-4.1.3.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/httpx_sse/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/httpx_sse
+752K	./.venv/lib/python3.11/site-packages/jinja2/__pycache__
+1.3M	./.venv/lib/python3.11/site-packages/jinja2
+ 68K	./.venv/lib/python3.11/site-packages/distro/__pycache__
+128K	./.venv/lib/python3.11/site-packages/distro
+ 16K	./.venv/lib/python3.11/site-packages/langchain_text_splitters-0.3.5.dist-info
+ 20K	./.venv/lib/python3.11/site-packages/blinker-1.9.0.dist-info
+ 40K	./.venv/lib/python3.11/site-packages/google_api_core-2.24.0.dist-info
+8.0K	./.venv/lib/python3.11/site-packages/frozenlist/__pycache__
+168K	./.venv/lib/python3.11/site-packages/frozenlist
+ 40K	./.venv/lib/python3.11/site-packages/markdown_it_py-3.0.0.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/apiclient/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/apiclient
+ 32K	./.venv/lib/python3.11/site-packages/gspread_dataframe-4.0.0.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/h11-0.14.0.dist-info
+200K	./.venv/lib/python3.11/site-packages/langchain_google_genai/__pycache__
+372K	./.venv/lib/python3.11/site-packages/langchain_google_genai
+ 44K	./.venv/lib/python3.11/site-packages/GitPython-3.1.44.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/google/gapic/metadata/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/google/gapic/metadata
+ 16K	./.venv/lib/python3.11/site-packages/google/gapic
+136K	./.venv/lib/python3.11/site-packages/google/auth/transport/__pycache__
+252K	./.venv/lib/python3.11/site-packages/google/auth/transport
+ 52K	./.venv/lib/python3.11/site-packages/google/auth/crypt/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/google/auth/crypt
+ 32K	./.venv/lib/python3.11/site-packages/google/auth/aio/transport/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/google/auth/aio/transport
+ 12K	./.venv/lib/python3.11/site-packages/google/auth/aio/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/google/auth/aio
+400K	./.venv/lib/python3.11/site-packages/google/auth/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/google/auth/compute_engine/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/google/auth/compute_engine
+1.3M	./.venv/lib/python3.11/site-packages/google/auth
+632K	./.venv/lib/python3.11/site-packages/google/_upb
+252K	./.venv/lib/python3.11/site-packages/google/generativeai/types/__pycache__
+460K	./.venv/lib/python3.11/site-packages/google/generativeai/types
+200K	./.venv/lib/python3.11/site-packages/google/generativeai/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/google/generativeai/vision_models/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/google/generativeai/vision_models
+188K	./.venv/lib/python3.11/site-packages/google/generativeai/notebook/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/google/generativeai/notebook/lib/__pycache__
+164K	./.venv/lib/python3.11/site-packages/google/generativeai/notebook/lib
+512K	./.venv/lib/python3.11/site-packages/google/generativeai/notebook
+1.4M	./.venv/lib/python3.11/site-packages/google/generativeai
+240K	./.venv/lib/python3.11/site-packages/google/oauth2/__pycache__
+468K	./.venv/lib/python3.11/site-packages/google/oauth2
+ 36K	./.venv/lib/python3.11/site-packages/google/longrunning/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/google/longrunning
+ 68K	./.venv/lib/python3.11/site-packages/google/type/__pycache__
+220K	./.venv/lib/python3.11/site-packages/google/type
+ 16K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage
+316K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/types/__pycache__
+580K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/types
+ 16K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/discuss_service/transports/__pycache__
+132K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/discuss_service/transports
+ 76K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/discuss_service/__pycache__
+284K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/discuss_service
+104K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/permission_service/transports/__pycache__
+208K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/permission_service/transports
+112K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/permission_service/__pycache__
+436K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/permission_service
+ 60K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/prediction_service/transports/__pycache__
+120K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/prediction_service/transports
+ 60K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/prediction_service/__pycache__
+240K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/prediction_service
+4.0K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/cache_service/transports/__pycache__
+180K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/cache_service/transports
+100K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/cache_service/__pycache__
+380K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/cache_service
+108K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/model_service/transports/__pycache__
+220K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/model_service/transports
+128K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/model_service/__pycache__
+480K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/model_service
+108K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/transports/__pycache__
+212K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/transports
+116K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/__pycache__
+444K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service
+212K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/retriever_service/transports/__pycache__
+420K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/retriever_service/transports
+220K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/retriever_service/__pycache__
+872K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/retriever_service
+ 84K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/text_service/transports/__pycache__
+164K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/text_service/transports
+ 92K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/text_service/__pycache__
+348K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/text_service
+ 80K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/file_service/transports/__pycache__
+152K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/file_service/transports
+ 88K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/file_service/__pycache__
+324K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/file_service
+3.7M	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services
+4.4M	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta
+ 76K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/types/__pycache__
+140K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/types
+8.0K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/model_service/transports/__pycache__
+164K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/model_service/transports
+ 92K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/model_service/__pycache__
+340K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/model_service
+112K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/generative_service/transports/__pycache__
+224K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/generative_service/transports
+108K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/generative_service/__pycache__
+448K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services/generative_service
+796K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1/services
+960K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1
+ 68K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/types/__pycache__
+120K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/types
+8.0K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/discuss_service/transports/__pycache__
+132K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/discuss_service/transports
+ 76K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/discuss_service/__pycache__
+284K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/discuss_service
+4.0K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/model_service/transports/__pycache__
+124K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/model_service/transports
+ 80K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/model_service/__pycache__
+280K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/model_service
+ 64K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/text_service/transports/__pycache__
+128K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/text_service/transports
+ 76K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/text_service/__pycache__
+280K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services/text_service
+852K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2/services
+996K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta2
+112K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/types/__pycache__
+208K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/types
+8.0K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/discuss_service/transports/__pycache__
+132K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/discuss_service/transports
+ 76K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/discuss_service/__pycache__
+284K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/discuss_service
+104K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/permission_service/transports/__pycache__
+204K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/permission_service/transports
+112K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/permission_service/__pycache__
+432K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/permission_service
+4.0K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/__pycache__
+108K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/model_service/transports/__pycache__
+212K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/model_service/transports
+128K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/model_service/__pycache__
+472K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/model_service
+ 84K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/text_service/transports/__pycache__
+160K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/text_service/transports
+ 92K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/text_service/__pycache__
+344K	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services/text_service
+1.5M	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3/services
+1.7M	./.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta3
+8.0M	./.venv/lib/python3.11/site-packages/google/ai
+4.0K	./.venv/lib/python3.11/site-packages/google/cloud/location/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/google/cloud/location
+4.0K	./.venv/lib/python3.11/site-packages/google/cloud/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/google/cloud
+140K	./.venv/lib/python3.11/site-packages/google/api/__pycache__
+544K	./.venv/lib/python3.11/site-packages/google/api
+ 12K	./.venv/lib/python3.11/site-packages/google/rpc/context/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/google/rpc/context
+ 20K	./.venv/lib/python3.11/site-packages/google/rpc/__pycache__
+116K	./.venv/lib/python3.11/site-packages/google/rpc
+ 60K	./.venv/lib/python3.11/site-packages/google/api_core/operations_v1/transports/__pycache__
+124K	./.venv/lib/python3.11/site-packages/google/api_core/operations_v1/transports
+104K	./.venv/lib/python3.11/site-packages/google/api_core/operations_v1/__pycache__
+328K	./.venv/lib/python3.11/site-packages/google/api_core/operations_v1
+ 76K	./.venv/lib/python3.11/site-packages/google/api_core/retry/__pycache__
+152K	./.venv/lib/python3.11/site-packages/google/api_core/retry
+ 40K	./.venv/lib/python3.11/site-packages/google/api_core/gapic_v1/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/google/api_core/gapic_v1
+336K	./.venv/lib/python3.11/site-packages/google/api_core/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/google/api_core/future/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/google/api_core/future
+1.2M	./.venv/lib/python3.11/site-packages/google/api_core
+8.0K	./.venv/lib/python3.11/site-packages/google/logging/type/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/google/logging/type
+ 24K	./.venv/lib/python3.11/site-packages/google/logging
+4.0K	./.venv/lib/python3.11/site-packages/google/protobuf/testdata/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/google/protobuf/testdata
+4.0K	./.venv/lib/python3.11/site-packages/google/protobuf/util/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/google/protobuf/util
+348K	./.venv/lib/python3.11/site-packages/google/protobuf/internal/__pycache__
+612K	./.venv/lib/python3.11/site-packages/google/protobuf/internal
+716K	./.venv/lib/python3.11/site-packages/google/protobuf/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/google/protobuf/pyext/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/google/protobuf/pyext
+8.0K	./.venv/lib/python3.11/site-packages/google/protobuf/compiler/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/google/protobuf/compiler
+2.0M	./.venv/lib/python3.11/site-packages/google/protobuf
+ 16M	./.venv/lib/python3.11/site-packages/google
+108K	./.venv/lib/python3.11/site-packages/referencing/tests/__pycache__
+172K	./.venv/lib/python3.11/site-packages/referencing/tests
+ 80K	./.venv/lib/python3.11/site-packages/referencing/__pycache__
+328K	./.venv/lib/python3.11/site-packages/referencing
+ 24K	./.venv/lib/python3.11/site-packages/typing_inspect-0.9.0.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Indian/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Indian
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Atlantic/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Atlantic
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/US/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/US
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Brazil/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Brazil
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Pacific/__pycache__
+180K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Pacific
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Arctic/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Arctic
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/Indiana/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/Indiana
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/Argentina/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/Argentina
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/Kentucky/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/Kentucky
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/North_Dakota/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America/North_Dakota
+692K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/America
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Australia/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Australia
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Etc/__pycache__
+144K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Etc
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Asia/__pycache__
+400K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Asia
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Antarctica/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Antarctica
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Europe/__pycache__
+260K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Europe
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Mexico/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Mexico
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Africa/__pycache__
+220K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Africa
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Chile/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Chile
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Canada/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo/Canada
+2.6M	./.venv/lib/python3.11/site-packages/tzdata/zoneinfo
+4.0K	./.venv/lib/python3.11/site-packages/tzdata/__pycache__
+2.6M	./.venv/lib/python3.11/site-packages/tzdata
+132K	./.venv/lib/python3.11/site-packages/rsa/__pycache__
+252K	./.venv/lib/python3.11/site-packages/rsa
+ 36K	./.venv/lib/python3.11/site-packages/langsmith-0.2.10.dist-info
+112K	./.venv/lib/python3.11/site-packages/gspread_pandas/__pycache__
+204K	./.venv/lib/python3.11/site-packages/gspread_pandas
+ 84K	./.venv/lib/python3.11/site-packages/markdown_it/rules_block/__pycache__
+168K	./.venv/lib/python3.11/site-packages/markdown_it/rules_block
+ 48K	./.venv/lib/python3.11/site-packages/markdown_it/rules_core/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/markdown_it/rules_core
+124K	./.venv/lib/python3.11/site-packages/markdown_it/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/markdown_it/cli/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/markdown_it/cli
+ 32K	./.venv/lib/python3.11/site-packages/markdown_it/common/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/markdown_it/common
+ 76K	./.venv/lib/python3.11/site-packages/markdown_it/rules_inline/__pycache__
+156K	./.venv/lib/python3.11/site-packages/markdown_it/rules_inline
+ 16K	./.venv/lib/python3.11/site-packages/markdown_it/presets/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/markdown_it/presets
+ 16K	./.venv/lib/python3.11/site-packages/markdown_it/helpers/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/markdown_it/helpers
+784K	./.venv/lib/python3.11/site-packages/markdown_it
+ 44K	./.venv/lib/python3.11/site-packages/rich-13.9.4.dist-info
+ 88K	./.venv/lib/python3.11/site-packages/tqdm-4.67.1.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/uritemplate-4.1.1.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/urllib3-2.3.0.dist-info/licenses
+ 28K	./.venv/lib/python3.11/site-packages/urllib3-2.3.0.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/google_auth_httplib2-0.2.0.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/faiss_cpu-1.9.0.post1.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/protobuf-5.29.3.dist-info
+ 20K	./.venv/lib/python3.11/site-packages/docx-0.2.4.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/jsonpatch-1.33.dist-info
+ 20K	./.venv/lib/python3.11/site-packages/click-8.1.8.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/jsonpointer-3.0.0.dist-info
+304K	./.venv/lib/python3.11/site-packages/idna/__pycache__
+656K	./.venv/lib/python3.11/site-packages/idna
+148K	./.venv/lib/python3.11/site-packages/altair/expr/__pycache__
+280K	./.venv/lib/python3.11/site-packages/altair/expr
+300K	./.venv/lib/python3.11/site-packages/altair/utils/__pycache__
+560K	./.venv/lib/python3.11/site-packages/altair/utils
+ 36K	./.venv/lib/python3.11/site-packages/altair/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/altair/vegalite/__pycache__
+256K	./.venv/lib/python3.11/site-packages/altair/vegalite/v5/__pycache__
+2.9M	./.venv/lib/python3.11/site-packages/altair/vegalite/v5/schema/__pycache__
+7.7M	./.venv/lib/python3.11/site-packages/altair/vegalite/v5/schema
+8.2M	./.venv/lib/python3.11/site-packages/altair/vegalite/v5
+8.3M	./.venv/lib/python3.11/site-packages/altair/vegalite
+4.0K	./.venv/lib/python3.11/site-packages/altair/typing/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/altair/typing
+ 12K	./.venv/lib/python3.11/site-packages/altair/jupyter/js
+ 24K	./.venv/lib/python3.11/site-packages/altair/jupyter/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/altair/jupyter
+9.2M	./.venv/lib/python3.11/site-packages/altair
+336K	./.venv/lib/python3.11/site-packages/numpy-1.26.4.dist-info
+492K	./.venv/lib/python3.11/site-packages/click/__pycache__
+860K	./.venv/lib/python3.11/site-packages/click
+ 84K	./.venv/lib/python3.11/site-packages/langchain_community/chat_loaders/__pycache__
+144K	./.venv/lib/python3.11/site-packages/langchain_community/chat_loaders
+372K	./.venv/lib/python3.11/site-packages/langchain_community/retrievers/__pycache__
+672K	./.venv/lib/python3.11/site-packages/langchain_community/retrievers
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/multion/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/tools/multion
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/stackexchange/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/stackexchange
+4.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/reddit_search/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/reddit_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/dataforseo_api_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/dataforseo_api_search
+ 68K	./.venv/lib/python3.11/site-packages/langchain_community/tools/e2b_data_analysis/__pycache__
+100K	./.venv/lib/python3.11/site-packages/langchain_community/tools/e2b_data_analysis
+ 48K	./.venv/lib/python3.11/site-packages/langchain_community/tools/ainetwork/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/langchain_community/tools/ainetwork
+ 56K	./.venv/lib/python3.11/site-packages/langchain_community/tools/azure_ai_services/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/langchain_community/tools/azure_ai_services
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/bearly/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/tools/bearly
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/zenguard/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/zenguard
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/steam/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/tools/steam
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/wikipedia/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/wikipedia
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/spark_sql/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/tools/spark_sql
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/gitlab/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/tools/gitlab
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/jina_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/jina_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/passio_nutrition_ai/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/passio_nutrition_ai
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/memorize/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/memorize
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/sleep/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/sleep
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/shell/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/shell
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/nuclia/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/tools/nuclia
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/zapier/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/tools/zapier
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_places/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_places
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/few_shot/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/few_shot
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/cassandra_database/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/tools/cassandra_database
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/searx_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/searx_search
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/tools/databricks/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain_community/tools/databricks
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/sql_database/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/tools/sql_database
+ 48K	./.venv/lib/python3.11/site-packages/langchain_community/tools/azure_cognitive_services/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/langchain_community/tools/azure_cognitive_services
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/eleven_labs/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/eleven_labs
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/golden_query/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/golden_query
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/polygon/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain_community/tools/polygon
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/clickup/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/tools/clickup
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/searchapi/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/searchapi
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/semanticscholar/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/semanticscholar
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/tools/file_management/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/langchain_community/tools/file_management
+ 44K	./.venv/lib/python3.11/site-packages/langchain_community/tools/office365/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/langchain_community/tools/office365
+ 56K	./.venv/lib/python3.11/site-packages/langchain_community/tools/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain_community/tools/playwright/__pycache__
+104K	./.venv/lib/python3.11/site-packages/langchain_community/tools/playwright
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/youtube/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/youtube
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/riza/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/riza
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openapi/utils/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openapi/utils
+4.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openapi/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openapi
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/connery/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain_community/tools/connery
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/requests/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/requests
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/wolfram_alpha/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/wolfram_alpha
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_lens/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_lens
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/dataherald/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/dataherald
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_cloud/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_cloud
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/audio/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/audio
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openai_dalle_image_generation/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openai_dalle_image_generation
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/json/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/tools/json
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/jira/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/tools/jira
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/github/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/tools/github
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/mojeek_search/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/mojeek_search
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/ddg_search/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/ddg_search
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/bing_search/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/bing_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/merriam_webster/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/merriam_webster
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/powerbi/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain_community/tools/powerbi
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/graphql/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/graphql
+ 60K	./.venv/lib/python3.11/site-packages/langchain_community/tools/edenai/__pycache__
+104K	./.venv/lib/python3.11/site-packages/langchain_community/tools/edenai
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_trends/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_trends
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/steamship_image_generation/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/steamship_image_generation
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/tavily_search/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/tavily_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/wikidata/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/wikidata
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/brave_search/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/brave_search
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/slack/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain_community/tools/slack
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/arxiv/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/arxiv
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_finance/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_finance
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/pubmed/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/pubmed
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/scenexplain/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/scenexplain
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/you/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/you
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_jobs/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_jobs
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/tools/cogniswitch/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain_community/tools/cogniswitch
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/asknews/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/asknews
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/tools/amadeus/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain_community/tools/amadeus
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/human/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/human
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openweathermap/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/openweathermap
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/interaction/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/interaction
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/metaphor_search/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/metaphor_search
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_scholar/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_scholar
+ 48K	./.venv/lib/python3.11/site-packages/langchain_community/tools/gmail/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/langchain_community/tools/gmail
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/financial_datasets/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/tools/financial_datasets
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/tools/vectorstore/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/tools/vectorstore
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_serper/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/google_serper
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/tools/nasa/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/tools/nasa
+2.6M	./.venv/lib/python3.11/site-packages/langchain_community/tools
+772K	./.venv/lib/python3.11/site-packages/langchain_community/embeddings/__pycache__
+1.4M	./.venv/lib/python3.11/site-packages/langchain_community/embeddings
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/example_selectors/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/example_selectors
+ 40K	./.venv/lib/python3.11/site-packages/langchain_community/memory/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/langchain_community/memory
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/callbacks/streamlit/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain_community/callbacks/streamlit
+480K	./.venv/lib/python3.11/site-packages/langchain_community/callbacks/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain_community/callbacks/tracers/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/langchain_community/callbacks/tracers
+968K	./.venv/lib/python3.11/site-packages/langchain_community/callbacks
+140K	./.venv/lib/python3.11/site-packages/langchain_community/query_constructors/__pycache__
+228K	./.venv/lib/python3.11/site-packages/langchain_community/query_constructors
+1.3M	./.venv/lib/python3.11/site-packages/langchain_community/chat_models/__pycache__
+2.4M	./.venv/lib/python3.11/site-packages/langchain_community/chat_models
+4.0K	./.venv/lib/python3.11/site-packages/langchain_community/agents/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/agents/openai_assistant/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/langchain_community/agents/openai_assistant
+ 64K	./.venv/lib/python3.11/site-packages/langchain_community/agents
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/utils/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/langchain_community/utils
+136K	./.venv/lib/python3.11/site-packages/langchain_community/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/cross_encoders/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain_community/cross_encoders
+ 88K	./.venv/lib/python3.11/site-packages/langchain_community/storage/__pycache__
+156K	./.venv/lib/python3.11/site-packages/langchain_community/storage
+ 76K	./.venv/lib/python3.11/site-packages/langchain_community/document_compressors/__pycache__
+136K	./.venv/lib/python3.11/site-packages/langchain_community/document_compressors
+860K	./.venv/lib/python3.11/site-packages/langchain_community/utilities/__pycache__
+1.5M	./.venv/lib/python3.11/site-packages/langchain_community/utilities
+112K	./.venv/lib/python3.11/site-packages/langchain_community/vectorstores/redis/__pycache__
+204K	./.venv/lib/python3.11/site-packages/langchain_community/vectorstores/redis
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/vectorstores/docarray/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain_community/vectorstores/docarray
+2.8M	./.venv/lib/python3.11/site-packages/langchain_community/vectorstores/__pycache__
+5.5M	./.venv/lib/python3.11/site-packages/langchain_community/vectorstores
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/adapters/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/langchain_community/adapters
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/output_parsers/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain_community/output_parsers
+ 80K	./.venv/lib/python3.11/site-packages/langchain_community/document_transformers/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/document_transformers/xsl
+164K	./.venv/lib/python3.11/site-packages/langchain_community/document_transformers
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/docstore/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain_community/docstore
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/parsers/html/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/parsers/html
+108K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/parsers/language/__pycache__
+200K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/parsers/language
+140K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/parsers/__pycache__
+476K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/parsers
+1.4M	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/blob_loaders/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders/blob_loaders
+3.1M	./.venv/lib/python3.11/site-packages/langchain_community/document_loaders
+264K	./.venv/lib/python3.11/site-packages/langchain_community/graphs/__pycache__
+472K	./.venv/lib/python3.11/site-packages/langchain_community/graphs
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/multion/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/multion
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/ainetwork/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/ainetwork
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/steam/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/steam
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/spark_sql/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/spark_sql
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/gitlab/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/gitlab
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/nla/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/nla
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/zapier/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/zapier
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/cassandra_database/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/cassandra_database
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/polygon/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/polygon
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/clickup/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/clickup
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/file_management/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/file_management
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/office365/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/office365
+ 60K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/playwright/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/playwright
+ 72K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/openapi/__pycache__
+132K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/openapi
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/connery/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/connery
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/json/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/json
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/jira/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/jira
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/github/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/github
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/powerbi/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/powerbi
+4.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/csv/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/csv
+4.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/xorbits/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/xorbits
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/slack/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/slack
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/cogniswitch/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/cogniswitch
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/amadeus/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/amadeus
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/gmail/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/gmail
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/financial_datasets/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/financial_datasets
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/nasa/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/nasa
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/sql/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits/sql
+840K	./.venv/lib/python3.11/site-packages/langchain_community/agent_toolkits
+1.3M	./.venv/lib/python3.11/site-packages/langchain_community/llms/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain_community/llms/grammars
+2.4M	./.venv/lib/python3.11/site-packages/langchain_community/llms
+128K	./.venv/lib/python3.11/site-packages/langchain_community/graph_vectorstores/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/langchain_community/graph_vectorstores/extractors/__pycache__
+108K	./.venv/lib/python3.11/site-packages/langchain_community/graph_vectorstores/extractors
+356K	./.venv/lib/python3.11/site-packages/langchain_community/graph_vectorstores
+ 12K	./.venv/lib/python3.11/site-packages/langchain_community/chains/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_community/chains/openapi/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain_community/chains/openapi
+180K	./.venv/lib/python3.11/site-packages/langchain_community/chains/graph_qa/__pycache__
+348K	./.venv/lib/python3.11/site-packages/langchain_community/chains/graph_qa
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/chains/ernie_functions/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/langchain_community/chains/ernie_functions
+ 72K	./.venv/lib/python3.11/site-packages/langchain_community/chains/pebblo_retrieval/__pycache__
+136K	./.venv/lib/python3.11/site-packages/langchain_community/chains/pebblo_retrieval
+ 16K	./.venv/lib/python3.11/site-packages/langchain_community/chains/natbot/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/langchain_community/chains/natbot
+648K	./.venv/lib/python3.11/site-packages/langchain_community/chains
+ 56K	./.venv/lib/python3.11/site-packages/langchain_community/indexes/__pycache__
+104K	./.venv/lib/python3.11/site-packages/langchain_community/indexes
+264K	./.venv/lib/python3.11/site-packages/langchain_community/chat_message_histories/__pycache__
+460K	./.venv/lib/python3.11/site-packages/langchain_community/chat_message_histories
+ 25M	./.venv/lib/python3.11/site-packages/langchain_community
+ 32K	./.venv/lib/python3.11/site-packages/requests_toolbelt/auth/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/requests_toolbelt/auth
+ 36K	./.venv/lib/python3.11/site-packages/requests_toolbelt/utils/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/requests_toolbelt/utils
+ 40K	./.venv/lib/python3.11/site-packages/requests_toolbelt/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/requests_toolbelt/adapters/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/requests_toolbelt/adapters
+ 48K	./.venv/lib/python3.11/site-packages/requests_toolbelt/multipart/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/requests_toolbelt/multipart
+ 20K	./.venv/lib/python3.11/site-packages/requests_toolbelt/downloadutils/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/requests_toolbelt/downloadutils
+8.0K	./.venv/lib/python3.11/site-packages/requests_toolbelt/cookies/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/requests_toolbelt/cookies
+ 20K	./.venv/lib/python3.11/site-packages/requests_toolbelt/threaded/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/requests_toolbelt/threaded
+448K	./.venv/lib/python3.11/site-packages/requests_toolbelt
+100K	./.venv/lib/python3.11/site-packages/tenacity/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/tenacity/asyncio/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/tenacity/asyncio
+212K	./.venv/lib/python3.11/site-packages/tenacity
+ 52K	./.venv/lib/python3.11/site-packages/grpcio_status-1.69.0.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/sql_metadata-2.15.0.dist-info
+ 44K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Indian
+ 48K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Atlantic
+ 48K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/US
+ 16K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Brazil
+176K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Pacific
+4.0K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Arctic
+ 32K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/America/Indiana
+ 52K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/America/Argentina
+8.0K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/America/Kentucky
+ 12K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/America/North_Dakota
+672K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/America
+ 92K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Australia
+140K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Etc
+396K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Asia
+ 48K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Antarctica
+256K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Europe
+ 12K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Mexico
+216K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Africa
+8.0K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Chile
+ 32K	./.venv/lib/python3.11/site-packages/pytz/zoneinfo/Canada
+2.5M	./.venv/lib/python3.11/site-packages/pytz/zoneinfo
+ 84K	./.venv/lib/python3.11/site-packages/pytz/__pycache__
+2.7M	./.venv/lib/python3.11/site-packages/pytz
+ 32K	./.venv/lib/python3.11/site-packages/tenacity-9.0.0.dist-info
+ 36K	./.venv/lib/python3.11/site-packages/aiohttp-3.11.11.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/jsonschema-4.23.0.dist-info/licenses
+ 32K	./.venv/lib/python3.11/site-packages/jsonschema-4.23.0.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/jiter/__pycache__
+752K	./.venv/lib/python3.11/site-packages/jiter
+404K	./.venv/lib/python3.11/site-packages/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/docs/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/docs
+ 40K	./.venv/lib/python3.11/site-packages/sqlalchemy/connectors/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/sqlalchemy/connectors
+308K	./.venv/lib/python3.11/site-packages/sqlalchemy/util/__pycache__
+524K	./.venv/lib/python3.11/site-packages/sqlalchemy/util
+420K	./.venv/lib/python3.11/site-packages/sqlalchemy/ext/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/sqlalchemy/ext/mypy/__pycache__
+184K	./.venv/lib/python3.11/site-packages/sqlalchemy/ext/mypy
+ 28K	./.venv/lib/python3.11/site-packages/sqlalchemy/ext/declarative/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/sqlalchemy/ext/declarative
+248K	./.venv/lib/python3.11/site-packages/sqlalchemy/ext/asyncio/__pycache__
+464K	./.venv/lib/python3.11/site-packages/sqlalchemy/ext/asyncio
+1.4M	./.venv/lib/python3.11/site-packages/sqlalchemy/ext
+ 88K	./.venv/lib/python3.11/site-packages/sqlalchemy/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/sqlalchemy/testing/plugin/__pycache__
+140K	./.venv/lib/python3.11/site-packages/sqlalchemy/testing/plugin
+348K	./.venv/lib/python3.11/site-packages/sqlalchemy/testing/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/sqlalchemy/testing/fixtures/__pycache__
+132K	./.venv/lib/python3.11/site-packages/sqlalchemy/testing/fixtures
+592K	./.venv/lib/python3.11/site-packages/sqlalchemy/testing/suite/__pycache__
+960K	./.venv/lib/python3.11/site-packages/sqlalchemy/testing/suite
+1.8M	./.venv/lib/python3.11/site-packages/sqlalchemy/testing
+4.0K	./.venv/lib/python3.11/site-packages/sqlalchemy/cyextension/__pycache__
+736K	./.venv/lib/python3.11/site-packages/sqlalchemy/cyextension
+620K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/postgresql/__pycache__
+1.1M	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/postgresql
+316K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/oracle/__pycache__
+580K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/oracle
+200K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/__pycache__
+376K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite
+8.0K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/__pycache__
+376K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/mysql/__pycache__
+676K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/mysql
+240K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/mssql/__pycache__
+440K	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects/mssql
+3.1M	./.venv/lib/python3.11/site-packages/sqlalchemy/dialects
+2.4M	./.venv/lib/python3.11/site-packages/sqlalchemy/orm/__pycache__
+4.6M	./.venv/lib/python3.11/site-packages/sqlalchemy/orm
+796K	./.venv/lib/python3.11/site-packages/sqlalchemy/engine/__pycache__
+1.5M	./.venv/lib/python3.11/site-packages/sqlalchemy/engine
+108K	./.venv/lib/python3.11/site-packages/sqlalchemy/pool/__pycache__
+200K	./.venv/lib/python3.11/site-packages/sqlalchemy/pool
+104K	./.venv/lib/python3.11/site-packages/sqlalchemy/event/__pycache__
+180K	./.venv/lib/python3.11/site-packages/sqlalchemy/event
+8.0K	./.venv/lib/python3.11/site-packages/sqlalchemy/future/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/sqlalchemy/future
+2.2M	./.venv/lib/python3.11/site-packages/sqlalchemy/sql/__pycache__
+4.1M	./.venv/lib/python3.11/site-packages/sqlalchemy/sql
+ 18M	./.venv/lib/python3.11/site-packages/sqlalchemy
+ 60K	./.venv/lib/python3.11/site-packages/cachetools/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/cachetools
+ 44K	./.venv/lib/python3.11/site-packages/propcache-0.2.1.dist-info
+ 40K	./.venv/lib/python3.11/site-packages/pyasn1-0.6.1.dist-info
+ 68K	./.venv/lib/python3.11/site-packages/setuptools-65.5.0.dist-info
+624K	./.venv/lib/python3.11/site-packages/regex/__pycache__
+1.7M	./.venv/lib/python3.11/site-packages/regex
+ 44K	./.venv/lib/python3.11/site-packages/langgraph-0.2.67.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/jinja2-3.1.5.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/cachetools-5.5.0.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/langchain_core/beta/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_core/beta/runnables/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/langchain_core/beta/runnables
+ 48K	./.venv/lib/python3.11/site-packages/langchain_core/beta
+184K	./.venv/lib/python3.11/site-packages/langchain_core/language_models/__pycache__
+340K	./.venv/lib/python3.11/site-packages/langchain_core/language_models
+104K	./.venv/lib/python3.11/site-packages/langchain_core/tools/__pycache__
+188K	./.venv/lib/python3.11/site-packages/langchain_core/tools
+140K	./.venv/lib/python3.11/site-packages/langchain_core/messages/__pycache__
+268K	./.venv/lib/python3.11/site-packages/langchain_core/messages
+ 16K	./.venv/lib/python3.11/site-packages/langchain_core/embeddings/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/langchain_core/embeddings
+ 36K	./.venv/lib/python3.11/site-packages/langchain_core/example_selectors/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/langchain_core/example_selectors
+156K	./.venv/lib/python3.11/site-packages/langchain_core/callbacks/__pycache__
+304K	./.venv/lib/python3.11/site-packages/langchain_core/callbacks
+ 56K	./.venv/lib/python3.11/site-packages/langchain_core/_api/__pycache__
+100K	./.venv/lib/python3.11/site-packages/langchain_core/_api
+192K	./.venv/lib/python3.11/site-packages/langchain_core/utils/__pycache__
+360K	./.venv/lib/python3.11/site-packages/langchain_core/utils
+144K	./.venv/lib/python3.11/site-packages/langchain_core/__pycache__
+564K	./.venv/lib/python3.11/site-packages/langchain_core/runnables/__pycache__
+1.0M	./.venv/lib/python3.11/site-packages/langchain_core/runnables
+ 84K	./.venv/lib/python3.11/site-packages/langchain_core/vectorstores/__pycache__
+160K	./.venv/lib/python3.11/site-packages/langchain_core/vectorstores
+ 48K	./.venv/lib/python3.11/site-packages/langchain_core/load/__pycache__
+112K	./.venv/lib/python3.11/site-packages/langchain_core/load
+112K	./.venv/lib/python3.11/site-packages/langchain_core/output_parsers/__pycache__
+204K	./.venv/lib/python3.11/site-packages/langchain_core/output_parsers
+192K	./.venv/lib/python3.11/site-packages/langchain_core/prompts/__pycache__
+344K	./.venv/lib/python3.11/site-packages/langchain_core/prompts
+ 24K	./.venv/lib/python3.11/site-packages/langchain_core/document_loaders/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/langchain_core/document_loaders
+ 28K	./.venv/lib/python3.11/site-packages/langchain_core/documents/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/langchain_core/documents
+ 76K	./.venv/lib/python3.11/site-packages/langchain_core/indexing/__pycache__
+140K	./.venv/lib/python3.11/site-packages/langchain_core/indexing
+ 12K	./.venv/lib/python3.11/site-packages/langchain_core/pydantic_v1/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/langchain_core/pydantic_v1
+220K	./.venv/lib/python3.11/site-packages/langchain_core/tracers/__pycache__
+404K	./.venv/lib/python3.11/site-packages/langchain_core/tracers
+ 28K	./.venv/lib/python3.11/site-packages/langchain_core/outputs/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/langchain_core/outputs
+4.5M	./.venv/lib/python3.11/site-packages/langchain_core
+172K	./.venv/lib/python3.11/site-packages/numpy/distutils/checks
+144K	./.venv/lib/python3.11/site-packages/numpy/distutils/tests/__pycache__
+248K	./.venv/lib/python3.11/site-packages/numpy/distutils/tests
+688K	./.venv/lib/python3.11/site-packages/numpy/distutils/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/numpy/distutils/mingw
+180K	./.venv/lib/python3.11/site-packages/numpy/distutils/fcompiler/__pycache__
+324K	./.venv/lib/python3.11/site-packages/numpy/distutils/fcompiler
+184K	./.venv/lib/python3.11/site-packages/numpy/distutils/command/__pycache__
+356K	./.venv/lib/python3.11/site-packages/numpy/distutils/command
+2.2M	./.venv/lib/python3.11/site-packages/numpy/distutils
+ 44K	./.venv/lib/python3.11/site-packages/numpy/_utils/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/numpy/_utils
+8.0K	./.venv/lib/python3.11/site-packages/numpy/compat/tests/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/numpy/compat/tests
+ 16K	./.venv/lib/python3.11/site-packages/numpy/compat/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/numpy/compat
+100K	./.venv/lib/python3.11/site-packages/numpy/core/include/numpy/random
+480K	./.venv/lib/python3.11/site-packages/numpy/core/include/numpy
+480K	./.venv/lib/python3.11/site-packages/numpy/core/include
+3.7M	./.venv/lib/python3.11/site-packages/numpy/core/tests/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/numpy/core/tests/examples/cython/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/numpy/core/tests/examples/cython
+4.0K	./.venv/lib/python3.11/site-packages/numpy/core/tests/examples/limited_api/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/numpy/core/tests/examples/limited_api
+ 28K	./.venv/lib/python3.11/site-packages/numpy/core/tests/examples
+1.1M	./.venv/lib/python3.11/site-packages/numpy/core/tests/data
+6.9M	./.venv/lib/python3.11/site-packages/numpy/core/tests
+1.1M	./.venv/lib/python3.11/site-packages/numpy/core/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/numpy/core/lib/npy-pkg-config
+ 44K	./.venv/lib/python3.11/site-packages/numpy/core/lib
+ 13M	./.venv/lib/python3.11/site-packages/numpy/core
+168K	./.venv/lib/python3.11/site-packages/numpy/linalg/tests/__pycache__
+260K	./.venv/lib/python3.11/site-packages/numpy/linalg/tests
+112K	./.venv/lib/python3.11/site-packages/numpy/linalg/__pycache__
+724K	./.venv/lib/python3.11/site-packages/numpy/linalg
+696K	./.venv/lib/python3.11/site-packages/numpy/ma/tests/__pycache__
+1.0M	./.venv/lib/python3.11/site-packages/numpy/ma/tests
+488K	./.venv/lib/python3.11/site-packages/numpy/ma/__pycache__
+2.0M	./.venv/lib/python3.11/site-packages/numpy/ma
+ 28K	./.venv/lib/python3.11/site-packages/numpy/_core/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/numpy/_core
+ 68K	./.venv/lib/python3.11/site-packages/numpy/_typing/__pycache__
+156K	./.venv/lib/python3.11/site-packages/numpy/_typing
+ 88K	./.venv/lib/python3.11/site-packages/numpy/tests/__pycache__
+152K	./.venv/lib/python3.11/site-packages/numpy/tests
+ 16K	./.venv/lib/python3.11/site-packages/numpy/_pyinstaller/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/numpy/_pyinstaller
+ 84K	./.venv/lib/python3.11/site-packages/numpy/array_api/tests/__pycache__
+144K	./.venv/lib/python3.11/site-packages/numpy/array_api/tests
+204K	./.venv/lib/python3.11/site-packages/numpy/array_api/__pycache__
+520K	./.venv/lib/python3.11/site-packages/numpy/array_api
+112K	./.venv/lib/python3.11/site-packages/numpy/__pycache__
+ 26M	./.venv/lib/python3.11/site-packages/numpy/.dylibs
+ 32K	./.venv/lib/python3.11/site-packages/numpy/typing/tests/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/numpy/typing/tests/data/misc
+184K	./.venv/lib/python3.11/site-packages/numpy/typing/tests/data/fail
+284K	./.venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass/__pycache__
+472K	./.venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass
+416K	./.venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal
+1.1M	./.venv/lib/python3.11/site-packages/numpy/typing/tests/data
+1.1M	./.venv/lib/python3.11/site-packages/numpy/typing/tests
+ 24K	./.venv/lib/python3.11/site-packages/numpy/typing/__pycache__
+1.1M	./.venv/lib/python3.11/site-packages/numpy/typing
+ 28K	./.venv/lib/python3.11/site-packages/numpy/f2py/_backends/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/numpy/f2py/_backends
+368K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/abstract_interface
+4.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/isocintrin
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/return_character
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/f2cmap
+ 12K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/mixed
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/return_complex
+4.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/quoted_character
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/array_from_pyobj
+ 12K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/cli
+4.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/kind
+4.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/value_attrspec
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/module_data
+4.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/negative_bounds
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/common
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/return_real
+ 20K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/assumed_shape
+4.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/block_docstring
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/return_integer
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/return_logical
+ 20K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/parameter
+ 36K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/string
+ 20K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/callback
+4.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/size
+8.0K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/gh25337
+ 12K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression
+ 76K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src/crackfortran
+316K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests/src
+920K	./.venv/lib/python3.11/site-packages/numpy/f2py/tests
+616K	./.venv/lib/python3.11/site-packages/numpy/f2py/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/numpy/f2py/src
+2.1M	./.venv/lib/python3.11/site-packages/numpy/f2py
+120K	./.venv/lib/python3.11/site-packages/numpy/testing/tests/__pycache__
+176K	./.venv/lib/python3.11/site-packages/numpy/testing/tests
+ 24K	./.venv/lib/python3.11/site-packages/numpy/testing/__pycache__
+120K	./.venv/lib/python3.11/site-packages/numpy/testing/_private/__pycache__
+224K	./.venv/lib/python3.11/site-packages/numpy/testing/_private
+448K	./.venv/lib/python3.11/site-packages/numpy/testing
+1.4M	./.venv/lib/python3.11/site-packages/numpy/lib/tests/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/numpy/lib/tests/data
+2.1M	./.venv/lib/python3.11/site-packages/numpy/lib/tests
+1.0M	./.venv/lib/python3.11/site-packages/numpy/lib/__pycache__
+4.2M	./.venv/lib/python3.11/site-packages/numpy/lib
+ 48K	./.venv/lib/python3.11/site-packages/numpy/fft/tests/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/numpy/fft/tests
+ 80K	./.venv/lib/python3.11/site-packages/numpy/fft/__pycache__
+332K	./.venv/lib/python3.11/site-packages/numpy/fft
+ 24K	./.venv/lib/python3.11/site-packages/numpy/doc/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/numpy/doc
+616K	./.venv/lib/python3.11/site-packages/numpy/random/tests/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/numpy/random/tests/data/__pycache__
+228K	./.venv/lib/python3.11/site-packages/numpy/random/tests/data
+1.2M	./.venv/lib/python3.11/site-packages/numpy/random/tests
+ 12K	./.venv/lib/python3.11/site-packages/numpy/random/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/numpy/random/lib
+8.0K	./.venv/lib/python3.11/site-packages/numpy/random/_examples/cffi/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/numpy/random/_examples/cffi
+ 12K	./.venv/lib/python3.11/site-packages/numpy/random/_examples/cython
+ 12K	./.venv/lib/python3.11/site-packages/numpy/random/_examples/numba/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/numpy/random/_examples/numba
+ 48K	./.venv/lib/python3.11/site-packages/numpy/random/_examples
+4.1M	./.venv/lib/python3.11/site-packages/numpy/random
+108K	./.venv/lib/python3.11/site-packages/numpy/matrixlib/tests/__pycache__
+164K	./.venv/lib/python3.11/site-packages/numpy/matrixlib/tests
+ 48K	./.venv/lib/python3.11/site-packages/numpy/matrixlib/__pycache__
+260K	./.venv/lib/python3.11/site-packages/numpy/matrixlib
+352K	./.venv/lib/python3.11/site-packages/numpy/polynomial/tests/__pycache__
+536K	./.venv/lib/python3.11/site-packages/numpy/polynomial/tests
+480K	./.venv/lib/python3.11/site-packages/numpy/polynomial/__pycache__
+1.4M	./.venv/lib/python3.11/site-packages/numpy/polynomial
+ 60M	./.venv/lib/python3.11/site-packages/numpy
+ 44K	./.venv/lib/python3.11/site-packages/dataclasses_json-0.6.7.dist-info
+ 40K	./.venv/lib/python3.11/site-packages/oauthlib-3.2.2.dist-info
+ 48K	./.venv/lib/python3.11/site-packages/langchain_openai/embeddings/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/langchain_openai/embeddings
+156K	./.venv/lib/python3.11/site-packages/langchain_openai/chat_models/__pycache__
+304K	./.venv/lib/python3.11/site-packages/langchain_openai/chat_models
+4.0K	./.venv/lib/python3.11/site-packages/langchain_openai/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/langchain_openai/output_parsers/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/langchain_openai/output_parsers
+ 44K	./.venv/lib/python3.11/site-packages/langchain_openai/llms/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/langchain_openai/llms
+508K	./.venv/lib/python3.11/site-packages/langchain_openai
+ 16K	./.venv/lib/python3.11/site-packages/grpc_status/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/grpc_status
+164K	./.venv/lib/python3.11/site-packages/charset_normalizer/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/charset_normalizer/cli/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/charset_normalizer/cli
+932K	./.venv/lib/python3.11/site-packages/charset_normalizer
+1.6M	./.venv/lib/python3.11/site-packages/PIL/__pycache__
+7.3M	./.venv/lib/python3.11/site-packages/PIL/.dylibs
+ 11M	./.venv/lib/python3.11/site-packages/PIL
+264K	./.venv/lib/python3.11/site-packages/requests/__pycache__
+492K	./.venv/lib/python3.11/site-packages/requests
+100K	./.venv/lib/python3.11/site-packages/google_api_python_client-2.159.0.dist-info
+ 48K	./.venv/lib/python3.11/site-packages/python_dotenv-1.0.1.dist-info
+120K	./.venv/lib/python3.11/site-packages/filetype/types/__pycache__
+196K	./.venv/lib/python3.11/site-packages/filetype/types
+ 28K	./.venv/lib/python3.11/site-packages/filetype/__pycache__
+248K	./.venv/lib/python3.11/site-packages/filetype
+4.0K	./.venv/lib/python3.11/site-packages/duckdb-stubs/value/constant
+4.0K	./.venv/lib/python3.11/site-packages/duckdb-stubs/value
+4.0K	./.venv/lib/python3.11/site-packages/duckdb-stubs/typing
+4.0K	./.venv/lib/python3.11/site-packages/duckdb-stubs/functional
+ 60K	./.venv/lib/python3.11/site-packages/duckdb-stubs
+ 52K	./.venv/lib/python3.11/site-packages/multidict/__pycache__
+184K	./.venv/lib/python3.11/site-packages/multidict
+ 68K	./.venv/lib/python3.11/site-packages/anyio/abc/__pycache__
+116K	./.venv/lib/python3.11/site-packages/anyio/abc
+228K	./.venv/lib/python3.11/site-packages/anyio/_backends/__pycache__
+360K	./.venv/lib/python3.11/site-packages/anyio/_backends
+188K	./.venv/lib/python3.11/site-packages/anyio/_core/__pycache__
+316K	./.venv/lib/python3.11/site-packages/anyio/_core
+ 80K	./.venv/lib/python3.11/site-packages/anyio/streams/__pycache__
+140K	./.venv/lib/python3.11/site-packages/anyio/streams
+ 88K	./.venv/lib/python3.11/site-packages/anyio/__pycache__
+1.1M	./.venv/lib/python3.11/site-packages/anyio
+ 68K	./.venv/lib/python3.11/site-packages/regex-2024.11.6.dist-info
+ 16K	./.venv/lib/python3.11/site-packages/orjson-3.10.14.dist-info/licenses
+ 72K	./.venv/lib/python3.11/site-packages/orjson-3.10.14.dist-info
+ 96K	./.venv/lib/python3.11/site-packages/pip/_internal/network/__pycache__
+172K	./.venv/lib/python3.11/site-packages/pip/_internal/network
+232K	./.venv/lib/python3.11/site-packages/pip/_internal/utils/__pycache__
+408K	./.venv/lib/python3.11/site-packages/pip/_internal/utils
+100K	./.venv/lib/python3.11/site-packages/pip/_internal/models/__pycache__
+180K	./.venv/lib/python3.11/site-packages/pip/_internal/models
+136K	./.venv/lib/python3.11/site-packages/pip/_internal/__pycache__
+140K	./.venv/lib/python3.11/site-packages/pip/_internal/cli/__pycache__
+260K	./.venv/lib/python3.11/site-packages/pip/_internal/cli
+ 48K	./.venv/lib/python3.11/site-packages/pip/_internal/operations/install/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/pip/_internal/operations/install
+ 56K	./.venv/lib/python3.11/site-packages/pip/_internal/operations/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/pip/_internal/operations/build/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/pip/_internal/operations/build
+264K	./.venv/lib/python3.11/site-packages/pip/_internal/operations
+144K	./.venv/lib/python3.11/site-packages/pip/_internal/req/__pycache__
+256K	./.venv/lib/python3.11/site-packages/pip/_internal/req
+ 28K	./.venv/lib/python3.11/site-packages/pip/_internal/resolution/legacy/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pip/_internal/resolution/legacy
+8.0K	./.venv/lib/python3.11/site-packages/pip/_internal/resolution/__pycache__
+140K	./.venv/lib/python3.11/site-packages/pip/_internal/resolution/resolvelib/__pycache__
+252K	./.venv/lib/python3.11/site-packages/pip/_internal/resolution/resolvelib
+316K	./.venv/lib/python3.11/site-packages/pip/_internal/resolution
+ 96K	./.venv/lib/python3.11/site-packages/pip/_internal/vcs/__pycache__
+168K	./.venv/lib/python3.11/site-packages/pip/_internal/vcs
+ 44K	./.venv/lib/python3.11/site-packages/pip/_internal/locations/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/pip/_internal/locations
+ 92K	./.venv/lib/python3.11/site-packages/pip/_internal/index/__pycache__
+168K	./.venv/lib/python3.11/site-packages/pip/_internal/index
+196K	./.venv/lib/python3.11/site-packages/pip/_internal/commands/__pycache__
+348K	./.venv/lib/python3.11/site-packages/pip/_internal/commands
+ 72K	./.venv/lib/python3.11/site-packages/pip/_internal/metadata/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pip/_internal/metadata/importlib/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/pip/_internal/metadata/importlib
+192K	./.venv/lib/python3.11/site-packages/pip/_internal/metadata
+ 28K	./.venv/lib/python3.11/site-packages/pip/_internal/distributions/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pip/_internal/distributions
+3.0M	./.venv/lib/python3.11/site-packages/pip/_internal
+156K	./.venv/lib/python3.11/site-packages/pip/_vendor/packaging/__pycache__
+280K	./.venv/lib/python3.11/site-packages/pip/_vendor/packaging
+ 72K	./.venv/lib/python3.11/site-packages/pip/_vendor/truststore/__pycache__
+136K	./.venv/lib/python3.11/site-packages/pip/_vendor/truststore
+ 68K	./.venv/lib/python3.11/site-packages/pip/_vendor/msgpack/__pycache__
+120K	./.venv/lib/python3.11/site-packages/pip/_vendor/msgpack
+1.0M	./.venv/lib/python3.11/site-packages/pip/_vendor/chardet/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/pip/_vendor/chardet/cli/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/pip/_vendor/chardet/cli
+ 16K	./.venv/lib/python3.11/site-packages/pip/_vendor/chardet/metadata/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/pip/_vendor/chardet/metadata
+2.2M	./.venv/lib/python3.11/site-packages/pip/_vendor/chardet
+ 44K	./.venv/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/pip/_vendor/webencodings
+ 40K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/filters/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/filters
+124K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/lexers/__pycache__
+264K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/lexers
+196K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/formatters/__pycache__
+360K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/formatters
+208K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/styles/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments/styles
+1.1M	./.venv/lib/python3.11/site-packages/pip/_vendor/pygments
+540K	./.venv/lib/python3.11/site-packages/pip/_vendor/distlib/__pycache__
+1.7M	./.venv/lib/python3.11/site-packages/pip/_vendor/distlib
+ 32K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyparsing/diagram/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyparsing/diagram
+500K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyparsing/__pycache__
+932K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyparsing
+ 68K	./.venv/lib/python3.11/site-packages/pip/_vendor/distro/__pycache__
+128K	./.venv/lib/python3.11/site-packages/pip/_vendor/distro
+ 72K	./.venv/lib/python3.11/site-packages/pip/_vendor/colorama/tests/__pycache__
+112K	./.venv/lib/python3.11/site-packages/pip/_vendor/colorama/tests
+ 52K	./.venv/lib/python3.11/site-packages/pip/_vendor/colorama/__pycache__
+204K	./.venv/lib/python3.11/site-packages/pip/_vendor/colorama
+ 72K	./.venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/caches/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/caches
+176K	./.venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol
+244K	./.venv/lib/python3.11/site-packages/pip/_vendor/idna/__pycache__
+528K	./.venv/lib/python3.11/site-packages/pip/_vendor/idna
+104K	./.venv/lib/python3.11/site-packages/pip/_vendor/tenacity/__pycache__
+180K	./.venv/lib/python3.11/site-packages/pip/_vendor/tenacity
+188K	./.venv/lib/python3.11/site-packages/pip/_vendor/__pycache__
+256K	./.venv/lib/python3.11/site-packages/pip/_vendor/requests/__pycache__
+472K	./.venv/lib/python3.11/site-packages/pip/_vendor/requests
+ 48K	./.venv/lib/python3.11/site-packages/pip/_vendor/tomli/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/pip/_vendor/tomli
+ 12K	./.venv/lib/python3.11/site-packages/pip/_vendor/certifi/__pycache__
+304K	./.venv/lib/python3.11/site-packages/pip/_vendor/certifi
+ 28K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_in_process
+ 88K	./.venv/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks
+1.3M	./.venv/lib/python3.11/site-packages/pip/_vendor/rich/__pycache__
+2.3M	./.venv/lib/python3.11/site-packages/pip/_vendor/rich
+136K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util/__pycache__
+260K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util
+196K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/__pycache__
+104K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib/_securetransport
+268K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib
+ 52K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/packages/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/packages/backports
+116K	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3/packages
+1.0M	./.venv/lib/python3.11/site-packages/pip/_vendor/urllib3
+160K	./.venv/lib/python3.11/site-packages/pip/_vendor/pkg_resources/__pycache__
+268K	./.venv/lib/python3.11/site-packages/pip/_vendor/pkg_resources
+8.0K	./.venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/compat/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/compat
+ 60K	./.venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/__pycache__
+120K	./.venv/lib/python3.11/site-packages/pip/_vendor/resolvelib
+ 92K	./.venv/lib/python3.11/site-packages/pip/_vendor/platformdirs/__pycache__
+164K	./.venv/lib/python3.11/site-packages/pip/_vendor/platformdirs
+ 13M	./.venv/lib/python3.11/site-packages/pip/_vendor
+ 12K	./.venv/lib/python3.11/site-packages/pip/__pycache__
+ 16M	./.venv/lib/python3.11/site-packages/pip
+1.3M	./.venv/lib/python3.11/site-packages/tornado/test/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/tornado/test/csv_translations
+4.0K	./.venv/lib/python3.11/site-packages/tornado/test/static/dir
+ 20K	./.venv/lib/python3.11/site-packages/tornado/test/static
+4.0K	./.venv/lib/python3.11/site-packages/tornado/test/templates
+8.0K	./.venv/lib/python3.11/site-packages/tornado/test/gettext_translations/fr_FR/LC_MESSAGES
+8.0K	./.venv/lib/python3.11/site-packages/tornado/test/gettext_translations/fr_FR
+8.0K	./.venv/lib/python3.11/site-packages/tornado/test/gettext_translations
+2.0M	./.venv/lib/python3.11/site-packages/tornado/test
+ 56K	./.venv/lib/python3.11/site-packages/tornado/platform/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/tornado/platform
+1.1M	./.venv/lib/python3.11/site-packages/tornado/__pycache__
+4.3M	./.venv/lib/python3.11/site-packages/tornado
+ 36K	./.venv/lib/python3.11/site-packages/anyio-4.8.0.dist-info
+1.4M	./.venv/lib/python3.11/site-packages/pyasn1_modules/__pycache__
+2.4M	./.venv/lib/python3.11/site-packages/pyasn1_modules
+104K	./.venv/lib/python3.11/site-packages/dataclasses_json/__pycache__
+184K	./.venv/lib/python3.11/site-packages/dataclasses_json
+ 44K	./.venv/lib/python3.11/site-packages/smmap/test/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/smmap/test
+ 52K	./.venv/lib/python3.11/site-packages/smmap/__pycache__
+172K	./.venv/lib/python3.11/site-packages/smmap
+ 28K	./.venv/lib/python3.11/site-packages/gitdb-4.0.12.dist-info
+ 40K	./.venv/lib/python3.11/site-packages/sniffio-1.3.1.dist-info
+ 52K	./.venv/lib/python3.11/site-packages/httpx/_transports/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/httpx/_transports
+356K	./.venv/lib/python3.11/site-packages/httpx/__pycache__
+736K	./.venv/lib/python3.11/site-packages/httpx
+4.0K	./.venv/lib/python3.11/site-packages/jsonschema_specifications-2024.10.1.dist-info/licenses
+ 20K	./.venv/lib/python3.11/site-packages/jsonschema_specifications-2024.10.1.dist-info
+ 12K	./.venv/lib/python3.11/site-packages/certifi/__pycache__
+316K	./.venv/lib/python3.11/site-packages/certifi
+ 64K	./.venv/lib/python3.11/site-packages/langgraph_sdk/auth/__pycache__
+124K	./.venv/lib/python3.11/site-packages/langgraph_sdk/auth
+192K	./.venv/lib/python3.11/site-packages/langgraph_sdk/__pycache__
+500K	./.venv/lib/python3.11/site-packages/langgraph_sdk
+ 24K	./.venv/lib/python3.11/site-packages/marshmallow-3.25.1.dist-info
+ 20K	./.venv/lib/python3.11/site-packages/mdurl-0.1.2.dist-info
+ 36K	./.venv/lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info
+ 44K	./.venv/lib/python3.11/site-packages/langchain_core-0.3.29.dist-info
+ 12K	./.venv/lib/python3.11/site-packages/sniffio/_tests/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/sniffio/_tests
+ 12K	./.venv/lib/python3.11/site-packages/sniffio/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/sniffio
+224K	./.venv/lib/python3.11/site-packages/attr/__pycache__
+460K	./.venv/lib/python3.11/site-packages/attr
+ 32K	./.venv/lib/python3.11/site-packages/gspread_pandas-3.3.0.dist-info
+ 68K	./.venv/lib/python3.11/site-packages/tiktoken/__pycache__
+2.8M	./.venv/lib/python3.11/site-packages/tiktoken
+ 96K	./.venv/lib/python3.11/site-packages/pytz-2024.2.dist-info
+100K	./.venv/lib/python3.11/site-packages/yarl-1.18.3.dist-info
+ 60K	./.venv/lib/python3.11/site-packages/charset_normalizer-3.4.1.dist-info
+328K	./.venv/lib/python3.11/site-packages/jsonschema/tests/__pycache__
+528K	./.venv/lib/python3.11/site-packages/jsonschema/tests
+212K	./.venv/lib/python3.11/site-packages/jsonschema/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/jsonschema/benchmarks/__pycache__
+116K	./.venv/lib/python3.11/site-packages/jsonschema/benchmarks/issue232
+204K	./.venv/lib/python3.11/site-packages/jsonschema/benchmarks
+1.1M	./.venv/lib/python3.11/site-packages/jsonschema
+104K	./.venv/lib/python3.11/site-packages/narwhals/stable/v1/__pycache__
+200K	./.venv/lib/python3.11/site-packages/narwhals/stable/v1
+4.0K	./.venv/lib/python3.11/site-packages/narwhals/stable/__pycache__
+208K	./.venv/lib/python3.11/site-packages/narwhals/stable
+116K	./.venv/lib/python3.11/site-packages/narwhals/_polars/__pycache__
+196K	./.venv/lib/python3.11/site-packages/narwhals/_polars
+172K	./.venv/lib/python3.11/site-packages/narwhals/_dask/__pycache__
+284K	./.venv/lib/python3.11/site-packages/narwhals/_dask
+300K	./.venv/lib/python3.11/site-packages/narwhals/_arrow/__pycache__
+500K	./.venv/lib/python3.11/site-packages/narwhals/_arrow
+ 20K	./.venv/lib/python3.11/site-packages/narwhals/_interchange/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/narwhals/_interchange
+120K	./.venv/lib/python3.11/site-packages/narwhals/_duckdb/__pycache__
+200K	./.venv/lib/python3.11/site-packages/narwhals/_duckdb
+1.1M	./.venv/lib/python3.11/site-packages/narwhals/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/narwhals/_ibis/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/narwhals/_ibis
+316K	./.venv/lib/python3.11/site-packages/narwhals/_pandas_like/__pycache__
+556K	./.venv/lib/python3.11/site-packages/narwhals/_pandas_like
+108K	./.venv/lib/python3.11/site-packages/narwhals/_spark_like/__pycache__
+184K	./.venv/lib/python3.11/site-packages/narwhals/_spark_like
+4.1M	./.venv/lib/python3.11/site-packages/narwhals
+ 28K	./.venv/lib/python3.11/site-packages/rsa-4.9.dist-info
+ 36K	./.venv/lib/python3.11/site-packages/packaging-24.2.dist-info
+244K	./.venv/lib/python3.11/site-packages/tqdm/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/tqdm/contrib/__pycache__
+112K	./.venv/lib/python3.11/site-packages/tqdm/contrib
+556K	./.venv/lib/python3.11/site-packages/tqdm
+136K	./.venv/lib/python3.11/site-packages/langchain_text_splitters/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/langchain_text_splitters/xsl
+272K	./.venv/lib/python3.11/site-packages/langchain_text_splitters
+ 84K	./.venv/lib/python3.11/site-packages/google_ai_generativelanguage-0.6.10.dist-info
+208K	./.venv/lib/python3.11/site-packages/pyarrow-18.1.0.dist-info
+ 60K	./.venv/lib/python3.11/site-packages/grpcio-1.69.0.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/_yaml/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/_yaml
+4.0K	./.venv/lib/python3.11/site-packages/scripts/readme-gen/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/scripts/readme-gen
+8.0K	./.venv/lib/python3.11/site-packages/scripts
+4.0K	./.venv/lib/python3.11/site-packages/pydantic_core-2.27.2.dist-info/licenses
+ 24K	./.venv/lib/python3.11/site-packages/pydantic_core-2.27.2.dist-info
+ 36K	./.venv/lib/python3.11/site-packages/google_auth_oauthlib-1.2.1.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/httpcore-1.0.7.dist-info/licenses
+ 44K	./.venv/lib/python3.11/site-packages/httpcore-1.0.7.dist-info
+1.3M	./.venv/lib/python3.11/site-packages/rich/__pycache__
+2.4M	./.venv/lib/python3.11/site-packages/rich
+228K	./.venv/lib/python3.11/site-packages/oauth2client/__pycache__
+144K	./.venv/lib/python3.11/site-packages/oauth2client/contrib/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/oauth2client/contrib/django_util/__pycache__
+116K	./.venv/lib/python3.11/site-packages/oauth2client/contrib/django_util
+384K	./.venv/lib/python3.11/site-packages/oauth2client/contrib
+816K	./.venv/lib/python3.11/site-packages/oauth2client
+100K	./.venv/lib/python3.11/site-packages/sql_metadata/__pycache__
+184K	./.venv/lib/python3.11/site-packages/sql_metadata
+992K	./.venv/lib/python3.11/site-packages/faiss/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/faiss/contrib/torch/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/faiss/contrib/torch
+224K	./.venv/lib/python3.11/site-packages/faiss/contrib/__pycache__
+388K	./.venv/lib/python3.11/site-packages/faiss/contrib
+808K	./.venv/lib/python3.11/site-packages/faiss/.dylibs
+ 13M	./.venv/lib/python3.11/site-packages/faiss
+308K	./.venv/lib/python3.11/site-packages/yaml/__pycache__
+908K	./.venv/lib/python3.11/site-packages/yaml
+4.0K	./.venv/lib/python3.11/site-packages/duckdb/experimental/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark/errors/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark/errors/exceptions/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark/errors/exceptions
+108K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark/errors
+276K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark/sql/__pycache__
+480K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark/sql
+660K	./.venv/lib/python3.11/site-packages/duckdb/experimental/spark
+668K	./.venv/lib/python3.11/site-packages/duckdb/experimental
+ 16K	./.venv/lib/python3.11/site-packages/duckdb/query_graph/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/duckdb/query_graph
+ 20K	./.venv/lib/python3.11/site-packages/duckdb/value/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/duckdb/value
+ 20K	./.venv/lib/python3.11/site-packages/duckdb/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/duckdb/typing/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/duckdb/typing
+4.0K	./.venv/lib/python3.11/site-packages/duckdb/functional/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/duckdb/functional
+ 52M	./.venv/lib/python3.11/site-packages/duckdb
+ 40K	./.venv/lib/python3.11/site-packages/tornado-6.4.2.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/pandasql-0.7.3.dist-info
+ 40K	./.venv/lib/python3.11/site-packages/distro-1.9.0.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/pyparsing-3.2.1.dist-info
+8.0K	./.venv/lib/python3.11/site-packages/tiktoken_ext/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/tiktoken_ext
+ 68K	./.venv/lib/python3.11/site-packages/SQLAlchemy-2.0.37.dist-info
+ 20K	./.venv/lib/python3.11/site-packages/jiter-0.8.2.dist-info
+160K	./.venv/lib/python3.11/site-packages/pydantic_settings/__pycache__
+300K	./.venv/lib/python3.11/site-packages/pydantic_settings
+140K	./.venv/lib/python3.11/site-packages/urllib3/util/__pycache__
+272K	./.venv/lib/python3.11/site-packages/urllib3/util
+268K	./.venv/lib/python3.11/site-packages/urllib3/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/urllib3/contrib/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/urllib3/contrib/emscripten/__pycache__
+128K	./.venv/lib/python3.11/site-packages/urllib3/contrib/emscripten
+204K	./.venv/lib/python3.11/site-packages/urllib3/contrib
+ 32K	./.venv/lib/python3.11/site-packages/urllib3/http2/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/urllib3/http2
+1.0M	./.venv/lib/python3.11/site-packages/urllib3
+ 20K	./.venv/lib/python3.11/site-packages/validators/crypto_addresses/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/validators/crypto_addresses
+144K	./.venv/lib/python3.11/site-packages/validators/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/validators/i18n/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/validators/i18n
+364K	./.venv/lib/python3.11/site-packages/validators
+ 28K	./.venv/lib/python3.11/site-packages/gspread-5.12.4.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/pydantic_settings-2.7.1.dist-info/licenses
+ 20K	./.venv/lib/python3.11/site-packages/pydantic_settings-2.7.1.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/blinker/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/blinker
+ 44K	./.venv/lib/python3.11/site-packages/requests_toolbelt-1.0.0.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/proto_plus-1.25.0.dist-info
+8.0K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/tests/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/tests
+8.0K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft6
+8.0K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft7
+ 20K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft201909/vocabularies
+ 24K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft201909
+ 36K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft202012/vocabularies
+ 40K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft202012
+8.0K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft4
+4.0K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas/draft3
+ 92K	./.venv/lib/python3.11/site-packages/jsonschema_specifications/schemas
+120K	./.venv/lib/python3.11/site-packages/jsonschema_specifications
+156K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/packaging/__pycache__
+280K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/packaging
+ 36K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/text/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/text
+104K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco
+ 28K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/pyparsing/diagram/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/pyparsing/diagram
+472K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/pyparsing/__pycache__
+888K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/pyparsing
+ 92K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata/__pycache__
+152K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata
+152K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/__pycache__
+176K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/more_itertools/__pycache__
+312K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/more_itertools
+ 72K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_resources/__pycache__
+112K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_resources
+ 48K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/tomli/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/setuptools/_vendor/tomli
+2.1M	./.venv/lib/python3.11/site-packages/setuptools/_vendor
+120K	./.venv/lib/python3.11/site-packages/setuptools/config/__pycache__
+240K	./.venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/__pycache__
+540K	./.venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject
+744K	./.venv/lib/python3.11/site-packages/setuptools/config
+432K	./.venv/lib/python3.11/site-packages/setuptools/__pycache__
+448K	./.venv/lib/python3.11/site-packages/setuptools/command/__pycache__
+768K	./.venv/lib/python3.11/site-packages/setuptools/command
+8.0K	./.venv/lib/python3.11/site-packages/setuptools/extern/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/setuptools/extern
+508K	./.venv/lib/python3.11/site-packages/setuptools/_distutils/__pycache__
+272K	./.venv/lib/python3.11/site-packages/setuptools/_distutils/command/__pycache__
+528K	./.venv/lib/python3.11/site-packages/setuptools/_distutils/command
+1.5M	./.venv/lib/python3.11/site-packages/setuptools/_distutils
+6.5M	./.venv/lib/python3.11/site-packages/setuptools
+156K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/packaging/__pycache__
+280K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/packaging
+ 36K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco/text/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco/text
+104K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco
+ 28K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing/diagram/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing/diagram
+472K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing/__pycache__
+888K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing
+ 52K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/__pycache__
+200K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/more_itertools/__pycache__
+356K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/more_itertools
+ 72K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__
+112K	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor/importlib_resources
+1.8M	./.venv/lib/python3.11/site-packages/pkg_resources/_vendor
+156K	./.venv/lib/python3.11/site-packages/pkg_resources/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pkg_resources/extern/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/pkg_resources/extern
+2.1M	./.venv/lib/python3.11/site-packages/pkg_resources
+ 40K	./.venv/lib/python3.11/site-packages/gspread_formatting-1.2.0.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/aiosignal-1.3.2.dist-info
+ 32K	./.venv/lib/python3.11/site-packages/typing_extensions-4.12.2.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/PyYAML-6.0.2.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/httpx-0.28.1.dist-info/licenses
+ 28K	./.venv/lib/python3.11/site-packages/httpx-0.28.1.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/rpds_py-0.22.3.dist-info/licenses
+ 24K	./.venv/lib/python3.11/site-packages/rpds_py-0.22.3.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/attrs-24.3.0.dist-info/licenses
+ 28K	./.venv/lib/python3.11/site-packages/attrs-24.3.0.dist-info
+ 16K	./.venv/lib/python3.11/site-packages/_distutils_hack/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/_distutils_hack
+ 32K	./.venv/lib/python3.11/site-packages/smmap-5.0.2.dist-info
+8.0K	./.venv/lib/python3.11/site-packages/sqlparse-0.5.3.dist-info/licenses
+ 28K	./.venv/lib/python3.11/site-packages/sqlparse-0.5.3.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/st_gsheets_connection-0.1.0.dist-info
+688K	./.venv/lib/python3.11/site-packages/pydantic/v1/__pycache__
+1.2M	./.venv/lib/python3.11/site-packages/pydantic/v1
+584K	./.venv/lib/python3.11/site-packages/pydantic/_internal/__pycache__
+1.1M	./.venv/lib/python3.11/site-packages/pydantic/_internal
+ 44K	./.venv/lib/python3.11/site-packages/pydantic/experimental/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/pydantic/experimental
+ 24K	./.venv/lib/python3.11/site-packages/pydantic/plugin/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/pydantic/plugin
+772K	./.venv/lib/python3.11/site-packages/pydantic/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/pydantic/deprecated/__pycache__
+124K	./.venv/lib/python3.11/site-packages/pydantic/deprecated
+3.9M	./.venv/lib/python3.11/site-packages/pydantic
+ 20K	./.venv/lib/python3.11/site-packages/langgraph_sdk-0.1.51.dist-info
+ 36K	./.venv/lib/python3.11/site-packages/filetype-1.2.0.dist-info
+ 88K	./.venv/lib/python3.11/site-packages/tzdata-2024.2.dist-info
+ 28K	./.venv/lib/python3.11/site-packages/tiktoken-0.8.0.dist-info
+ 12K	./.venv/lib/python3.11/site-packages/openai-1.59.7.dist-info/licenses
+120K	./.venv/lib/python3.11/site-packages/openai-1.59.7.dist-info
+8.0K	./.venv/lib/python3.11/site-packages/adbc_driver_duckdb/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/adbc_driver_duckdb
+4.0K	./.venv/lib/python3.11/site-packages/altair-5.5.0.dist-info/licenses
+ 32K	./.venv/lib/python3.11/site-packages/altair-5.5.0.dist-info
+ 44K	./.venv/lib/python3.11/site-packages/google_auth-2.37.0.dist-info
+236K	./.venv/lib/python3.11/site-packages/langchain_community-0.3.14.dist-info
+ 36K	./.venv/lib/python3.11/site-packages/aiohappyeyeballs-2.4.4.dist-info
+152K	./.venv/lib/python3.11/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1
+164K	./.venv/lib/python3.11/site-packages/lxml/isoschematron/resources/xsl
+ 20K	./.venv/lib/python3.11/site-packages/lxml/isoschematron/resources/rng
+184K	./.venv/lib/python3.11/site-packages/lxml/isoschematron/resources
+ 16K	./.venv/lib/python3.11/site-packages/lxml/isoschematron/__pycache__
+216K	./.venv/lib/python3.11/site-packages/lxml/isoschematron
+4.0K	./.venv/lib/python3.11/site-packages/lxml/includes/libxml/__pycache__
+504K	./.venv/lib/python3.11/site-packages/lxml/includes/libxml
+4.0K	./.venv/lib/python3.11/site-packages/lxml/includes/libxslt/__pycache__
+160K	./.venv/lib/python3.11/site-packages/lxml/includes/libxslt
+4.0K	./.venv/lib/python3.11/site-packages/lxml/includes/libexslt/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/lxml/includes/libexslt
+4.0K	./.venv/lib/python3.11/site-packages/lxml/includes/extlibs/__pycache__
+132K	./.venv/lib/python3.11/site-packages/lxml/includes/extlibs
+4.0K	./.venv/lib/python3.11/site-packages/lxml/includes/__pycache__
+996K	./.venv/lib/python3.11/site-packages/lxml/includes
+216K	./.venv/lib/python3.11/site-packages/lxml/html/__pycache__
+1.1M	./.venv/lib/python3.11/site-packages/lxml/html
+ 92K	./.venv/lib/python3.11/site-packages/lxml/__pycache__
+ 18M	./.venv/lib/python3.11/site-packages/lxml
+108K	./.venv/lib/python3.11/site-packages/yarl/__pycache__
+368K	./.venv/lib/python3.11/site-packages/yarl
+4.0K	./.venv/lib/python3.11/site-packages/annotated_types-0.7.0.dist-info/licenses
+ 32K	./.venv/lib/python3.11/site-packages/annotated_types-0.7.0.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/certifi-2024.12.14.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/httplib2-0.22.0.dist-info
+ 60K	./.venv/lib/python3.11/site-packages/gitdb/test/__pycache__
+104K	./.venv/lib/python3.11/site-packages/gitdb/test
+8.0K	./.venv/lib/python3.11/site-packages/gitdb/utils/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/gitdb/utils
+152K	./.venv/lib/python3.11/site-packages/gitdb/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/gitdb/db/__pycache__
+112K	./.venv/lib/python3.11/site-packages/gitdb/db
+512K	./.venv/lib/python3.11/site-packages/gitdb
+256K	./.venv/lib/python3.11/site-packages/docx/oxml/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/docx/oxml/text/__pycache__
+136K	./.venv/lib/python3.11/site-packages/docx/oxml/text
+568K	./.venv/lib/python3.11/site-packages/docx/oxml
+4.0K	./.venv/lib/python3.11/site-packages/docx/drawing/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/docx/drawing
+144K	./.venv/lib/python3.11/site-packages/docx/opc/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/docx/opc/parts/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/docx/opc/parts
+264K	./.venv/lib/python3.11/site-packages/docx/opc
+ 12K	./.venv/lib/python3.11/site-packages/docx/dml/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/docx/dml
+ 52K	./.venv/lib/python3.11/site-packages/docx/enum/__pycache__
+100K	./.venv/lib/python3.11/site-packages/docx/enum
+144K	./.venv/lib/python3.11/site-packages/docx/__pycache__
+104K	./.venv/lib/python3.11/site-packages/docx/image/__pycache__
+176K	./.venv/lib/python3.11/site-packages/docx/image
+ 44K	./.venv/lib/python3.11/site-packages/docx/styles/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/docx/styles
+ 48K	./.venv/lib/python3.11/site-packages/docx/parts/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/docx/parts
+ 20K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template/docProps
+4.0K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template/customXml/_rels
+ 12K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template/customXml
+4.0K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template/_rels
+ 12K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template/word/theme
+4.0K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template/word/_rels
+900K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template/word
+940K	./.venv/lib/python3.11/site-packages/docx/templates/default-docx-template
+1.0M	./.venv/lib/python3.11/site-packages/docx/templates
+ 92K	./.venv/lib/python3.11/site-packages/docx/text/__pycache__
+160K	./.venv/lib/python3.11/site-packages/docx/text
+2.6M	./.venv/lib/python3.11/site-packages/docx
+ 36K	./.venv/lib/python3.11/site-packages/streamlit_gsheets/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/streamlit_gsheets
+ 28K	./.venv/lib/python3.11/site-packages/pypdf2-3.0.1.dist-info
+ 44K	./.venv/lib/python3.11/site-packages/uritemplate/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/uritemplate
+100K	./.venv/lib/python3.11/site-packages/gspread_formatting/__pycache__
+172K	./.venv/lib/python3.11/site-packages/gspread_formatting
+104K	./.venv/lib/python3.11/site-packages/streamlit-1.41.1.dist-info
+156K	./.venv/lib/python3.11/site-packages/pydantic_core/__pycache__
+4.2M	./.venv/lib/python3.11/site-packages/pydantic_core
+ 92K	./.venv/lib/python3.11/site-packages/git/objects/submodule/__pycache__
+184K	./.venv/lib/python3.11/site-packages/git/objects/submodule
+132K	./.venv/lib/python3.11/site-packages/git/objects/__pycache__
+428K	./.venv/lib/python3.11/site-packages/git/objects
+300K	./.venv/lib/python3.11/site-packages/git/__pycache__
+104K	./.venv/lib/python3.11/site-packages/git/refs/__pycache__
+192K	./.venv/lib/python3.11/site-packages/git/refs
+116K	./.venv/lib/python3.11/site-packages/git/index/__pycache__
+212K	./.venv/lib/python3.11/site-packages/git/index
+ 88K	./.venv/lib/python3.11/site-packages/git/repo/__pycache__
+168K	./.venv/lib/python3.11/site-packages/git/repo
+1.5M	./.venv/lib/python3.11/site-packages/git
+4.0K	./.venv/lib/python3.11/site-packages/pydantic-2.10.5.dist-info/licenses
+ 60K	./.venv/lib/python3.11/site-packages/pydantic-2.10.5.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/six-1.17.0.dist-info
+4.0K	./.venv/lib/python3.11/site-packages/aiosignal/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/aiosignal
+252K	./.venv/lib/python3.11/site-packages/gspread/__pycache__
+476K	./.venv/lib/python3.11/site-packages/gspread
+ 40K	./.venv/lib/python3.11/site-packages/pandas/compat/__pycache__
+ 20K	./.venv/lib/python3.11/site-packages/pandas/compat/numpy/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pandas/compat/numpy
+116K	./.venv/lib/python3.11/site-packages/pandas/compat
+ 44K	./.venv/lib/python3.11/site-packages/pandas/core/indexers/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/pandas/core/indexers
+312K	./.venv/lib/python3.11/site-packages/pandas/core/reshape/__pycache__
+580K	./.venv/lib/python3.11/site-packages/pandas/core/reshape
+184K	./.venv/lib/python3.11/site-packages/pandas/core/strings/__pycache__
+324K	./.venv/lib/python3.11/site-packages/pandas/core/strings
+ 84K	./.venv/lib/python3.11/site-packages/pandas/core/tools/__pycache__
+160K	./.venv/lib/python3.11/site-packages/pandas/core/tools
+ 52K	./.venv/lib/python3.11/site-packages/pandas/core/methods/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/pandas/core/methods
+ 24K	./.venv/lib/python3.11/site-packages/pandas/core/util/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pandas/core/util
+ 72K	./.venv/lib/python3.11/site-packages/pandas/core/array_algos/__pycache__
+140K	./.venv/lib/python3.11/site-packages/pandas/core/array_algos
+ 88K	./.venv/lib/python3.11/site-packages/pandas/core/interchange/__pycache__
+160K	./.venv/lib/python3.11/site-packages/pandas/core/interchange
+1.9M	./.venv/lib/python3.11/site-packages/pandas/core/__pycache__
+332K	./.venv/lib/python3.11/site-packages/pandas/core/dtypes/__pycache__
+616K	./.venv/lib/python3.11/site-packages/pandas/core/dtypes
+448K	./.venv/lib/python3.11/site-packages/pandas/core/groupby/__pycache__
+848K	./.venv/lib/python3.11/site-packages/pandas/core/groupby
+372K	./.venv/lib/python3.11/site-packages/pandas/core/internals/__pycache__
+684K	./.venv/lib/python3.11/site-packages/pandas/core/internals
+192K	./.venv/lib/python3.11/site-packages/pandas/core/computation/__pycache__
+328K	./.venv/lib/python3.11/site-packages/pandas/core/computation
+ 40K	./.venv/lib/python3.11/site-packages/pandas/core/_numba/kernels/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/pandas/core/_numba/kernels
+ 48K	./.venv/lib/python3.11/site-packages/pandas/core/_numba/__pycache__
+152K	./.venv/lib/python3.11/site-packages/pandas/core/_numba
+224K	./.venv/lib/python3.11/site-packages/pandas/core/window/__pycache__
+420K	./.venv/lib/python3.11/site-packages/pandas/core/window
+188K	./.venv/lib/python3.11/site-packages/pandas/core/arrays/arrow/__pycache__
+324K	./.venv/lib/python3.11/site-packages/pandas/core/arrays/arrow
+848K	./.venv/lib/python3.11/site-packages/pandas/core/arrays/__pycache__
+112K	./.venv/lib/python3.11/site-packages/pandas/core/arrays/sparse/__pycache__
+204K	./.venv/lib/python3.11/site-packages/pandas/core/arrays/sparse
+2.0M	./.venv/lib/python3.11/site-packages/pandas/core/arrays
+ 76K	./.venv/lib/python3.11/site-packages/pandas/core/ops/__pycache__
+148K	./.venv/lib/python3.11/site-packages/pandas/core/ops
+8.0K	./.venv/lib/python3.11/site-packages/pandas/core/sparse/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/pandas/core/sparse
+760K	./.venv/lib/python3.11/site-packages/pandas/core/indexes/__pycache__
+1.4M	./.venv/lib/python3.11/site-packages/pandas/core/indexes
+ 12M	./.venv/lib/python3.11/site-packages/pandas/core
+ 88K	./.venv/lib/python3.11/site-packages/pandas/util/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/pandas/util/version/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/pandas/util/version
+208K	./.venv/lib/python3.11/site-packages/pandas/util
+236K	./.venv/lib/python3.11/site-packages/pandas/io/parsers/__pycache__
+456K	./.venv/lib/python3.11/site-packages/pandas/io/parsers
+600K	./.venv/lib/python3.11/site-packages/pandas/io/formats/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/pandas/io/formats/templates
+1.1M	./.venv/lib/python3.11/site-packages/pandas/io/formats
+172K	./.venv/lib/python3.11/site-packages/pandas/io/excel/__pycache__
+320K	./.venv/lib/python3.11/site-packages/pandas/io/excel
+748K	./.venv/lib/python3.11/site-packages/pandas/io/__pycache__
+104K	./.venv/lib/python3.11/site-packages/pandas/io/json/__pycache__
+188K	./.venv/lib/python3.11/site-packages/pandas/io/json
+ 80K	./.venv/lib/python3.11/site-packages/pandas/io/sas/__pycache__
+148K	./.venv/lib/python3.11/site-packages/pandas/io/sas
+ 36K	./.venv/lib/python3.11/site-packages/pandas/io/clipboard/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/pandas/io/clipboard
+3.6M	./.venv/lib/python3.11/site-packages/pandas/io
+ 60K	./.venv/lib/python3.11/site-packages/pandas/tseries/__pycache__
+112K	./.venv/lib/python3.11/site-packages/pandas/tseries
+888K	./.venv/lib/python3.11/site-packages/pandas/tests/series/methods/__pycache__
+1.4M	./.venv/lib/python3.11/site-packages/pandas/tests/series/methods
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/series/accessors/__pycache__
+168K	./.venv/lib/python3.11/site-packages/pandas/tests/series/accessors
+396K	./.venv/lib/python3.11/site-packages/pandas/tests/series/__pycache__
+308K	./.venv/lib/python3.11/site-packages/pandas/tests/series/indexing/__pycache__
+472K	./.venv/lib/python3.11/site-packages/pandas/tests/series/indexing
+2.7M	./.venv/lib/python3.11/site-packages/pandas/tests/series
+284K	./.venv/lib/python3.11/site-packages/pandas/tests/reshape/concat/__pycache__
+464K	./.venv/lib/python3.11/site-packages/pandas/tests/reshape/concat
+388K	./.venv/lib/python3.11/site-packages/pandas/tests/reshape/merge/__pycache__
+704K	./.venv/lib/python3.11/site-packages/pandas/tests/reshape/merge
+408K	./.venv/lib/python3.11/site-packages/pandas/tests/reshape/__pycache__
+1.8M	./.venv/lib/python3.11/site-packages/pandas/tests/reshape
+260K	./.venv/lib/python3.11/site-packages/pandas/tests/apply/__pycache__
+392K	./.venv/lib/python3.11/site-packages/pandas/tests/apply
+264K	./.venv/lib/python3.11/site-packages/pandas/tests/strings/__pycache__
+436K	./.venv/lib/python3.11/site-packages/pandas/tests/strings
+296K	./.venv/lib/python3.11/site-packages/pandas/tests/tools/__pycache__
+492K	./.venv/lib/python3.11/site-packages/pandas/tests/tools
+ 64K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/decimal/__pycache__
+100K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/decimal
+ 16K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/array_with_attr/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/array_with_attr
+ 16K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/date/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/date
+372K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/json/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/json
+ 20K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/list/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/list
+284K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/base/__pycache__
+460K	./.venv/lib/python3.11/site-packages/pandas/tests/extension/base
+1.3M	./.venv/lib/python3.11/site-packages/pandas/tests/extension
+408K	./.venv/lib/python3.11/site-packages/pandas/tests/resample/__pycache__
+628K	./.venv/lib/python3.11/site-packages/pandas/tests/resample
+268K	./.venv/lib/python3.11/site-packages/pandas/tests/util/__pycache__
+440K	./.venv/lib/python3.11/site-packages/pandas/tests/util
+ 44K	./.venv/lib/python3.11/site-packages/pandas/tests/config/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/pandas/tests/config
+316K	./.venv/lib/python3.11/site-packages/pandas/tests/io/formats/style/__pycache__
+520K	./.venv/lib/python3.11/site-packages/pandas/tests/io/formats/style
+456K	./.venv/lib/python3.11/site-packages/pandas/tests/io/formats/__pycache__
+1.2M	./.venv/lib/python3.11/site-packages/pandas/tests/io/formats
+272K	./.venv/lib/python3.11/site-packages/pandas/tests/io/excel/__pycache__
+436K	./.venv/lib/python3.11/site-packages/pandas/tests/io/excel
+856K	./.venv/lib/python3.11/site-packages/pandas/tests/io/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser/usecols/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser/usecols
+476K	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser/dtypes/__pycache__
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser/dtypes
+180K	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser/common/__pycache__
+296K	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser/common
+1.3M	./.venv/lib/python3.11/site-packages/pandas/tests/io/parser
+160K	./.venv/lib/python3.11/site-packages/pandas/tests/io/xml/__pycache__
+276K	./.venv/lib/python3.11/site-packages/pandas/tests/io/xml
+340K	./.venv/lib/python3.11/site-packages/pandas/tests/io/json/__pycache__
+568K	./.venv/lib/python3.11/site-packages/pandas/tests/io/json
+ 52K	./.venv/lib/python3.11/site-packages/pandas/tests/io/sas/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/pandas/tests/io/sas
+444K	./.venv/lib/python3.11/site-packages/pandas/tests/io/pytables/__pycache__
+700K	./.venv/lib/python3.11/site-packages/pandas/tests/io/pytables
+5.9M	./.venv/lib/python3.11/site-packages/pandas/tests/io
+ 40K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries/holiday/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries/holiday
+ 40K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries/frequencies/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries/frequencies
+4.0K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries/__pycache__
+440K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries/offsets/__pycache__
+756K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries/offsets
+888K	./.venv/lib/python3.11/site-packages/pandas/tests/tseries
+396K	./.venv/lib/python3.11/site-packages/pandas/tests/copy_view/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/pandas/tests/copy_view/index/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pandas/tests/copy_view/index
+692K	./.venv/lib/python3.11/site-packages/pandas/tests/copy_view
+ 56K	./.venv/lib/python3.11/site-packages/pandas/tests/interchange/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/pandas/tests/interchange
+1.7M	./.venv/lib/python3.11/site-packages/pandas/tests/frame/methods/__pycache__
+2.7M	./.venv/lib/python3.11/site-packages/pandas/tests/frame/methods
+988K	./.venv/lib/python3.11/site-packages/pandas/tests/frame/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/pandas/tests/frame/constructors/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/pandas/tests/frame/constructors
+408K	./.venv/lib/python3.11/site-packages/pandas/tests/frame/indexing/__pycache__
+644K	./.venv/lib/python3.11/site-packages/pandas/tests/frame/indexing
+5.0M	./.venv/lib/python3.11/site-packages/pandas/tests/frame
+388K	./.venv/lib/python3.11/site-packages/pandas/tests/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/pandas/tests/dtypes/cast/__pycache__
+164K	./.venv/lib/python3.11/site-packages/pandas/tests/dtypes/cast
+336K	./.venv/lib/python3.11/site-packages/pandas/tests/dtypes/__pycache__
+688K	./.venv/lib/python3.11/site-packages/pandas/tests/dtypes
+112K	./.venv/lib/python3.11/site-packages/pandas/tests/libs/__pycache__
+172K	./.venv/lib/python3.11/site-packages/pandas/tests/libs
+252K	./.venv/lib/python3.11/site-packages/pandas/tests/groupby/methods/__pycache__
+412K	./.venv/lib/python3.11/site-packages/pandas/tests/groupby/methods
+200K	./.venv/lib/python3.11/site-packages/pandas/tests/groupby/aggregate/__pycache__
+312K	./.venv/lib/python3.11/site-packages/pandas/tests/groupby/aggregate
+960K	./.venv/lib/python3.11/site-packages/pandas/tests/groupby/__pycache__
+132K	./.venv/lib/python3.11/site-packages/pandas/tests/groupby/transform/__pycache__
+200K	./.venv/lib/python3.11/site-packages/pandas/tests/groupby/transform
+2.4M	./.venv/lib/python3.11/site-packages/pandas/tests/groupby
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/internals/__pycache__
+164K	./.venv/lib/python3.11/site-packages/pandas/tests/internals
+136K	./.venv/lib/python3.11/site-packages/pandas/tests/computation/__pycache__
+212K	./.venv/lib/python3.11/site-packages/pandas/tests/computation
+356K	./.venv/lib/python3.11/site-packages/pandas/tests/plotting/frame/__pycache__
+544K	./.venv/lib/python3.11/site-packages/pandas/tests/plotting/frame
+492K	./.venv/lib/python3.11/site-packages/pandas/tests/plotting/__pycache__
+1.3M	./.venv/lib/python3.11/site-packages/pandas/tests/plotting
+ 44K	./.venv/lib/python3.11/site-packages/pandas/tests/window/moments/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/pandas/tests/window/moments
+612K	./.venv/lib/python3.11/site-packages/pandas/tests/window/__pycache__
+1.0M	./.venv/lib/python3.11/site-packages/pandas/tests/window
+ 68K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/string_/__pycache__
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/string_
+ 52K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/interval/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/interval
+ 48K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/masked/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/masked
+ 36K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/period/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/period
+208K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/__pycache__
+300K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/categorical/__pycache__
+492K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/categorical
+ 44K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/datetimes/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/datetimes
+ 32K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/timedeltas/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/timedeltas
+ 84K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/boolean/__pycache__
+148K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/boolean
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/integer/__pycache__
+176K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/integer
+ 92K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/floating/__pycache__
+152K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/floating
+236K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/sparse/__pycache__
+368K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/sparse
+ 24K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/numpy_/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pandas/tests/arrays/numpy_
+2.1M	./.venv/lib/python3.11/site-packages/pandas/tests/arrays
+536K	./.venv/lib/python3.11/site-packages/pandas/tests/arithmetic/__pycache__
+872K	./.venv/lib/python3.11/site-packages/pandas/tests/arithmetic
+8.0K	./.venv/lib/python3.11/site-packages/pandas/tests/construction/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/pandas/tests/construction
+ 20K	./.venv/lib/python3.11/site-packages/pandas/tests/api/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/pandas/tests/api
+172K	./.venv/lib/python3.11/site-packages/pandas/tests/generic/__pycache__
+276K	./.venv/lib/python3.11/site-packages/pandas/tests/generic
+172K	./.venv/lib/python3.11/site-packages/pandas/tests/tslibs/__pycache__
+292K	./.venv/lib/python3.11/site-packages/pandas/tests/tslibs
+ 36K	./.venv/lib/python3.11/site-packages/pandas/tests/indexing/interval/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pandas/tests/indexing/interval
+676K	./.venv/lib/python3.11/site-packages/pandas/tests/indexing/__pycache__
+244K	./.venv/lib/python3.11/site-packages/pandas/tests/indexing/multiindex/__pycache__
+392K	./.venv/lib/python3.11/site-packages/pandas/tests/indexing/multiindex
+1.5M	./.venv/lib/python3.11/site-packages/pandas/tests/indexing
+128K	./.venv/lib/python3.11/site-packages/pandas/tests/reductions/__pycache__
+204K	./.venv/lib/python3.11/site-packages/pandas/tests/reductions
+ 44K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/interval/__pycache__
+ 72K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/interval
+ 24K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timedelta/methods/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timedelta/methods
+172K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timedelta/__pycache__
+304K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timedelta
+164K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/period/__pycache__
+264K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/period
+ 56K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timestamp/methods/__pycache__
+156K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timestamp/methods
+184K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timestamp/__pycache__
+448K	./.venv/lib/python3.11/site-packages/pandas/tests/scalar/timestamp
+1.1M	./.venv/lib/python3.11/site-packages/pandas/tests/scalar
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/base/__pycache__
+172K	./.venv/lib/python3.11/site-packages/pandas/tests/base
+108K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/ranges/__pycache__
+176K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/ranges
+ 64K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/base_class/__pycache__
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/base_class
+232K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/interval/__pycache__
+380K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/interval
+484K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/multi/__pycache__
+768K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/multi
+ 72K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/period/methods/__pycache__
+124K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/period/methods
+240K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/period/__pycache__
+512K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/period
+384K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/__pycache__
+136K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/categorical/__pycache__
+216K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/categorical
+140K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/numeric/__pycache__
+212K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/numeric
+ 24K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/object/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/object
+212K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/datetimes/methods/__pycache__
+356K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/datetimes/methods
+396K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/datetimes/__pycache__
+1.0M	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/datetimes
+ 44K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/timedeltas/methods/__pycache__
+ 76K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/timedeltas/methods
+136K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/timedeltas/__pycache__
+300K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/timedeltas
+ 64K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/datetimelike_/__pycache__
+104K	./.venv/lib/python3.11/site-packages/pandas/tests/indexes/datetimelike_
+4.3M	./.venv/lib/python3.11/site-packages/pandas/tests/indexes
+ 38M	./.venv/lib/python3.11/site-packages/pandas/tests
+120K	./.venv/lib/python3.11/site-packages/pandas/_testing/__pycache__
+224K	./.venv/lib/python3.11/site-packages/pandas/_testing
+140K	./.venv/lib/python3.11/site-packages/pandas/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/pandas/_libs/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/pandas/_libs/window/__pycache__
+552K	./.venv/lib/python3.11/site-packages/pandas/_libs/window
+4.0K	./.venv/lib/python3.11/site-packages/pandas/_libs/tslibs/__pycache__
+5.3M	./.venv/lib/python3.11/site-packages/pandas/_libs/tslibs
+ 19M	./.venv/lib/python3.11/site-packages/pandas/_libs
+ 96K	./.venv/lib/python3.11/site-packages/pandas/plotting/__pycache__
+280K	./.venv/lib/python3.11/site-packages/pandas/plotting/_matplotlib/__pycache__
+500K	./.venv/lib/python3.11/site-packages/pandas/plotting/_matplotlib
+692K	./.venv/lib/python3.11/site-packages/pandas/plotting
+4.0K	./.venv/lib/python3.11/site-packages/pandas/arrays/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pandas/arrays
+4.0K	./.venv/lib/python3.11/site-packages/pandas/api/indexers/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pandas/api/indexers
+4.0K	./.venv/lib/python3.11/site-packages/pandas/api/types/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pandas/api/types
+4.0K	./.venv/lib/python3.11/site-packages/pandas/api/interchange/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pandas/api/interchange
+4.0K	./.venv/lib/python3.11/site-packages/pandas/api/__pycache__
+4.0K	./.venv/lib/python3.11/site-packages/pandas/api/extensions/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pandas/api/extensions
+4.0K	./.venv/lib/python3.11/site-packages/pandas/api/typing/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pandas/api/typing
+ 48K	./.venv/lib/python3.11/site-packages/pandas/api
+ 36K	./.venv/lib/python3.11/site-packages/pandas/errors/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/pandas/errors
+ 60K	./.venv/lib/python3.11/site-packages/pandas/_config/__pycache__
+108K	./.venv/lib/python3.11/site-packages/pandas/_config
+ 74M	./.venv/lib/python3.11/site-packages/pandas
+ 20K	./.venv/lib/python3.11/site-packages/dateutil/zoneinfo/__pycache__
+188K	./.venv/lib/python3.11/site-packages/dateutil/zoneinfo
+128K	./.venv/lib/python3.11/site-packages/dateutil/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/dateutil/parser/__pycache__
+176K	./.venv/lib/python3.11/site-packages/dateutil/parser
+120K	./.venv/lib/python3.11/site-packages/dateutil/tz/__pycache__
+224K	./.venv/lib/python3.11/site-packages/dateutil/tz
+836K	./.venv/lib/python3.11/site-packages/dateutil
+ 32K	./.venv/lib/python3.11/site-packages/requests_oauthlib-2.0.0.dist-info
+ 24K	./.venv/lib/python3.11/site-packages/pandasql/tests/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/pandasql/tests
+ 16K	./.venv/lib/python3.11/site-packages/pandasql/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/pandasql/data
+144K	./.venv/lib/python3.11/site-packages/pandasql
+ 40K	./.venv/lib/python3.11/site-packages/aiohappyeyeballs/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/aiohappyeyeballs
+ 72K	./.venv/lib/python3.11/site-packages/openai/_utils/__pycache__
+136K	./.venv/lib/python3.11/site-packages/openai/_utils
+ 32K	./.venv/lib/python3.11/site-packages/openai/types/beta/vector_stores/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/openai/types/beta/vector_stores
+4.0K	./.venv/lib/python3.11/site-packages/openai/types/beta/chat/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/openai/types/beta/chat
+172K	./.venv/lib/python3.11/site-packages/openai/types/beta/__pycache__
+248K	./.venv/lib/python3.11/site-packages/openai/types/beta/realtime/__pycache__
+524K	./.venv/lib/python3.11/site-packages/openai/types/beta/realtime
+180K	./.venv/lib/python3.11/site-packages/openai/types/beta/threads/__pycache__
+ 84K	./.venv/lib/python3.11/site-packages/openai/types/beta/threads/runs/__pycache__
+168K	./.venv/lib/python3.11/site-packages/openai/types/beta/threads/runs
+536K	./.venv/lib/python3.11/site-packages/openai/types/beta/threads
+1.5M	./.venv/lib/python3.11/site-packages/openai/types/beta
+ 40K	./.venv/lib/python3.11/site-packages/openai/types/fine_tuning/__pycache__
+ 12K	./.venv/lib/python3.11/site-packages/openai/types/fine_tuning/jobs/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/openai/types/fine_tuning/jobs
+108K	./.venv/lib/python3.11/site-packages/openai/types/fine_tuning
+140K	./.venv/lib/python3.11/site-packages/openai/types/chat/__pycache__
+288K	./.venv/lib/python3.11/site-packages/openai/types/chat
+ 12K	./.venv/lib/python3.11/site-packages/openai/types/uploads/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/openai/types/uploads
+ 28K	./.venv/lib/python3.11/site-packages/openai/types/shared/__pycache__
+ 56K	./.venv/lib/python3.11/site-packages/openai/types/shared
+ 24K	./.venv/lib/python3.11/site-packages/openai/types/shared_params/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/openai/types/shared_params
+172K	./.venv/lib/python3.11/site-packages/openai/types/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/openai/types/audio/__pycache__
+104K	./.venv/lib/python3.11/site-packages/openai/types/audio
+2.4M	./.venv/lib/python3.11/site-packages/openai/types
+ 16K	./.venv/lib/python3.11/site-packages/openai/_extras/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/openai/_extras
+ 80K	./.venv/lib/python3.11/site-packages/openai/resources/beta/vector_stores/__pycache__
+180K	./.venv/lib/python3.11/site-packages/openai/resources/beta/vector_stores
+ 32K	./.venv/lib/python3.11/site-packages/openai/resources/beta/chat/__pycache__
+ 68K	./.venv/lib/python3.11/site-packages/openai/resources/beta/chat
+ 44K	./.venv/lib/python3.11/site-packages/openai/resources/beta/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/openai/resources/beta/realtime/__pycache__
+120K	./.venv/lib/python3.11/site-packages/openai/resources/beta/realtime
+ 72K	./.venv/lib/python3.11/site-packages/openai/resources/beta/threads/__pycache__
+ 88K	./.venv/lib/python3.11/site-packages/openai/resources/beta/threads/runs/__pycache__
+248K	./.venv/lib/python3.11/site-packages/openai/resources/beta/threads/runs
+448K	./.venv/lib/python3.11/site-packages/openai/resources/beta/threads
+912K	./.venv/lib/python3.11/site-packages/openai/resources/beta
+ 12K	./.venv/lib/python3.11/site-packages/openai/resources/fine_tuning/__pycache__
+ 36K	./.venv/lib/python3.11/site-packages/openai/resources/fine_tuning/jobs/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/openai/resources/fine_tuning/jobs
+100K	./.venv/lib/python3.11/site-packages/openai/resources/fine_tuning
+ 52K	./.venv/lib/python3.11/site-packages/openai/resources/chat/__pycache__
+160K	./.venv/lib/python3.11/site-packages/openai/resources/chat
+ 40K	./.venv/lib/python3.11/site-packages/openai/resources/uploads/__pycache__
+ 80K	./.venv/lib/python3.11/site-packages/openai/resources/uploads
+128K	./.venv/lib/python3.11/site-packages/openai/resources/__pycache__
+ 60K	./.venv/lib/python3.11/site-packages/openai/resources/audio/__pycache__
+120K	./.venv/lib/python3.11/site-packages/openai/resources/audio
+1.6M	./.venv/lib/python3.11/site-packages/openai/resources
+336K	./.venv/lib/python3.11/site-packages/openai/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/openai/cli/_api/chat/__pycache__
+ 28K	./.venv/lib/python3.11/site-packages/openai/cli/_api/chat
+ 52K	./.venv/lib/python3.11/site-packages/openai/cli/_api/__pycache__
+116K	./.venv/lib/python3.11/site-packages/openai/cli/_api
+ 32K	./.venv/lib/python3.11/site-packages/openai/cli/__pycache__
+ 24K	./.venv/lib/python3.11/site-packages/openai/cli/_tools/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/openai/cli/_tools
+220K	./.venv/lib/python3.11/site-packages/openai/cli
+ 16K	./.venv/lib/python3.11/site-packages/openai/lib/_parsing/__pycache__
+ 32K	./.venv/lib/python3.11/site-packages/openai/lib/_parsing
+ 92K	./.venv/lib/python3.11/site-packages/openai/lib/__pycache__
+ 48K	./.venv/lib/python3.11/site-packages/openai/lib/streaming/chat/__pycache__
+ 92K	./.venv/lib/python3.11/site-packages/openai/lib/streaming/chat
+ 56K	./.venv/lib/python3.11/site-packages/openai/lib/streaming/__pycache__
+196K	./.venv/lib/python3.11/site-packages/openai/lib/streaming
+404K	./.venv/lib/python3.11/site-packages/openai/lib
+5.4M	./.venv/lib/python3.11/site-packages/openai
+ 20K	./.venv/lib/python3.11/site-packages/pydeck/types/__pycache__
+ 40K	./.venv/lib/python3.11/site-packages/pydeck/types
+ 24K	./.venv/lib/python3.11/site-packages/pydeck/widget/__pycache__
+ 44K	./.venv/lib/python3.11/site-packages/pydeck/widget
+ 28K	./.venv/lib/python3.11/site-packages/pydeck/data_utils/__pycache__
+ 52K	./.venv/lib/python3.11/site-packages/pydeck/data_utils
+ 12K	./.venv/lib/python3.11/site-packages/pydeck/io/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pydeck/io/templates
+ 36K	./.venv/lib/python3.11/site-packages/pydeck/io
+4.0K	./.venv/lib/python3.11/site-packages/pydeck/nbextension/__pycache__
+ 14M	./.venv/lib/python3.11/site-packages/pydeck/nbextension/static
+ 14M	./.venv/lib/python3.11/site-packages/pydeck/nbextension
+ 16K	./.venv/lib/python3.11/site-packages/pydeck/__pycache__
+8.0K	./.venv/lib/python3.11/site-packages/pydeck/exceptions/__pycache__
+ 16K	./.venv/lib/python3.11/site-packages/pydeck/exceptions
+ 56K	./.venv/lib/python3.11/site-packages/pydeck/bindings/__pycache__
+104K	./.venv/lib/python3.11/site-packages/pydeck/bindings
+ 14M	./.venv/lib/python3.11/site-packages/pydeck
+ 28K	./.venv/lib/python3.11/site-packages/validators-0.34.0.dist-info
+212K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/acero
+ 24K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/extension
+1.2M	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/util
+ 40K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/python/vendored
+276K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/python
+316K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/array
+176K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/dataset
+204K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/flight
+104K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/io
+136K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/filesystem
+164K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/testing
+4.0K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/adapters/tensorflow
+ 16K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/adapters/orc
+ 20K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/adapters
+ 60K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/json
+8.0K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/compute/row
+256K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/compute
+ 64K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/csv
+120K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/vendored/pcg
+340K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/vendored/datetime
+ 52K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/vendored/portable-snippets
+116K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/vendored/double-conversion
+248K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/vendored/xxhash
+896K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/vendored
+112K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/ipc
+4.0K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/tensor
+ 84K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/engine/substrait
+ 92K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/engine
+ 52K	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow/c
+4.9M	./.venv/lib/python3.11/site-packages/pyarrow/include/arrow
+108K	./.venv/lib/python3.11/site-packages/pyarrow/include/parquet/encryption
+ 56K	./.venv/lib/python3.11/site-packages/pyarrow/include/parquet/arrow
+ 16K	./.venv/lib/python3.11/site-packages/pyarrow/include/parquet/api
+592K	./.venv/lib/python3.11/site-packages/pyarrow/include/parquet
+5.4M	./.venv/lib/python3.11/site-packages/pyarrow/include
+ 60K	./.venv/lib/python3.11/site-packages/pyarrow/tests/interchange/__pycache__
+ 96K	./.venv/lib/python3.11/site-packages/pyarrow/tests/interchange
+3.2M	./.venv/lib/python3.11/site-packages/pyarrow/tests/__pycache__
+372K	./.venv/lib/python3.11/site-packages/pyarrow/tests/parquet/__pycache__
+612K	./.venv/lib/python3.11/site-packages/pyarrow/tests/parquet
+4.0K	./.venv/lib/python3.11/site-packages/pyarrow/tests/data/feather
+268K	./.venv/lib/python3.11/site-packages/pyarrow/tests/data/orc
+ 20K	./.venv/lib/python3.11/site-packages/pyarrow/tests/data/parquet
+292K	./.venv/lib/python3.11/site-packages/pyarrow/tests/data
+6.0M	./.venv/lib/python3.11/site-packages/pyarrow/tests
+252K	./.venv/lib/python3.11/site-packages/pyarrow/includes
+ 68K	./.venv/lib/python3.11/site-packages/pyarrow/interchange/__pycache__
+128K	./.venv/lib/python3.11/site-packages/pyarrow/interchange
+324K	./.venv/lib/python3.11/site-packages/pyarrow/__pycache__
+ 64K	./.venv/lib/python3.11/site-packages/pyarrow/vendored/__pycache__
+108K	./.venv/lib/python3.11/site-packages/pyarrow/vendored
+100K	./.venv/lib/python3.11/site-packages/pyarrow/parquet/__pycache__
+200K	./.venv/lib/python3.11/site-packages/pyarrow/parquet
+ 44K	./.venv/lib/python3.11/site-packages/pyarrow/src/arrow/python/vendored
+768K	./.venv/lib/python3.11/site-packages/pyarrow/src/arrow/python
+768K	./.venv/lib/python3.11/site-packages/pyarrow/src/arrow
+768K	./.venv/lib/python3.11/site-packages/pyarrow/src
+105M	./.venv/lib/python3.11/site-packages/pyarrow
+ 24K	./.venv/lib/python3.11/site-packages/MarkupSafe-3.0.2.dist-info
+700M	./.venv/lib/python3.11/site-packages
+700M	./.venv/lib/python3.11
+700M	./.venv/lib
+ 48K	./.venv/docx-template/docProps
+4.0K	./.venv/docx-template/_rels
+8.0K	./.venv/docx-template/word/theme
+ 40K	./.venv/docx-template/word
+ 92K	./.venv/docx-template
+ 14M	./.venv/share/jupyter/nbextensions/pydeck
+ 14M	./.venv/share/jupyter/nbextensions
+ 14M	./.venv/share/jupyter
+ 14M	./.venv/share
+714M	./.venv
+4.0K	./.git/objects/50
+4.0K	./.git/objects/6a
+4.0K	./.git/objects/f2
+4.0K	./.git/objects/f5
+  0B	./.git/objects/pack
+4.0K	./.git/objects/87
+4.0K	./.git/objects/86
+4.0K	./.git/objects/43
+ 12K	./.git/objects/31
+  0B	./.git/objects/info
+4.0K	./.git/objects/5e
+4.0K	./.git/objects/97
+4.0K	./.git/objects/aa
+4.0K	./.git/objects/c5
+4.0K	./.git/objects/f1
+4.0K	./.git/objects/23
+4.0K	./.git/objects/12
+4.0K	./.git/objects/76
+4.0K	./.git/objects/82
+ 76K	./.git/objects
+4.0K	./.git/info
+4.0K	./.git/logs/refs/heads
+4.0K	./.git/logs/refs/remotes/origin
+4.0K	./.git/logs/refs/remotes
+8.0K	./.git/logs/refs
+ 12K	./.git/logs
+ 64K	./.git/hooks
+4.0K	./.git/refs/heads
+  0B	./.git/refs/tags
+4.0K	./.git/refs/remotes/origin
+4.0K	./.git/refs/remotes
+8.0K	./.git/refs
+184K	./.git
+4.0K	./.vscode
+ 12K	./assets
+714M	.
