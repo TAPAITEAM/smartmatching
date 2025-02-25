@@ -80,20 +80,20 @@ def main():
             if 'current_matches' in st.session_state and st.session_state.current_matches:
                 st.write("🎯 **Best Matching Consultants**")
                 for i, consultant in enumerate(st.session_state.current_matches, 1):
-                    with st.expander(f"👨‍💼 Consultant {i}: {consultant['Fullname']}"):
+                    with st.expander(f"👨‍💼 Consultant {i}: {consultant['Full Name']}"):
                         cols = st.columns(2)
                         with cols[0]:
-                            st.markdown(f"**💸 Financeexpertise:** {consultant['Financeexpertise']}")
-                            st.markdown(f"**💰 Lightfinance:** {consultant['Lightfinance']}")
-                            st.markdown(f"**🎖️ Strategyexpertise:** {consultant['Strategyexpertise']}")
-                            st.markdown(f"**📌 Entrepreneurshipexpertise:** {consultant['Entrepreneurshipexpertise']}")
-                            st.markdown(f"**🚚 Operationsexpertise:** {consultant['Operationsexpertise']}")
-                            st.markdown(f"**💼 Marketingexpertise:** {consultant['Marketingexpertise']}")
+                            st.markdown(f"**💸 Finance Expertise:** {consultant['Finance Expertise']}")
+                            st.markdown(f"**💰 Light Finance:** {consultant['Light Finance']}")
+                            st.markdown(f"**🎖️ Strategy Expertise:** {consultant['Strategy Expertise']}")
+                            st.markdown(f"**📌 Entrepreneurship Expertise:** {consultant['Entrepreneurship Expertise']}")
+                            st.markdown(f"**🚚 Operations Expertise:** {consultant['Operations Expertise']}")
+                            st.markdown(f"**💼 Marketing Expertise:** {consultant['Marketing Expertise']}")
                         with cols[1]:
-                            st.markdown(f"**📚 Areas & Skills:** {consultant['Areaskills']}")
-                            st.markdown(f"**🏢 Industry Skills:** {consultant['Industryskills']}")
-                            st.markdown(f"**📅 Consultantavailabilitystatus:** {consultant['Consultantavailabilitystatus']}")
-                            st.markdown(f"**📆 Anticipatedavailabilitydate:** {consultant['Anticipatedavailabilitydate']}")
+                            st.markdown(f"**📚 Areas & Skills:** {consultant['Area Skills']}")
+                            st.markdown(f"**🏢 Industry Skills:** {consultant['Industry Skills']}")
+                            st.markdown(f"**📅 Consultant Availability Status:** {consultant['Consultant Availability Status']}")
+                            st.markdown(f"**📆 Anticipated Availability Date:** {consultant['Anticipated Availability Date']}")
                             st.markdown(f"**📝 Comments:** {consultant['Comments']}")
                         
                         st.markdown("---")
@@ -125,20 +125,20 @@ def main():
                                     if matches:
                                         st.write("🎯 **Best Matching Consultants**")
                                         for i, consultant in enumerate(matches, 1):
-                                            with st.expander(f"👨‍💼 Consultant {i}: {consultant['Fullname']}"):
+                                            with st.expander(f"👨‍💼 Consultant {i}: {consultant['Full Name']}"):
                                                 cols = st.columns(2)
                                                 with cols[0]:
-                                                    st.markdown(f"**💸 Financeexpertise:** {consultant['Financeexpertise']}")
-                                                    st.markdown(f"**💰 Lightfinance:** {consultant['Lightfinance']}")
-                                                    st.markdown(f"**🎖️ Strategyexpertise:** {consultant['Strategyexpertise']}")
-                                                    st.markdown(f"**📌 Entrepreneurshipexpertise:** {consultant['Entrepreneurshipexpertise']}")
-                                                    st.markdown(f"**🚚 Operationsexpertise:** {consultant['Operationsexpertise']}")
-                                                    st.markdown(f"**💼 Marketingexpertise:** {consultant['Marketingexpertise']}")
+                                                    st.markdown(f"**💸 Finance Expertise:** {consultant['Finance Expertise']}")
+                                                    st.markdown(f"**💰 Light Finance:** {consultant['Light Finance']}")
+                                                    st.markdown(f"**🎖️ Strategy Expertise:** {consultant['Strategy Expertise']}")
+                                                    st.markdown(f"**📌 Entrepreneurship Expertise:** {consultant['Entrepreneurship Expertise']}")
+                                                    st.markdown(f"**🚚 Operations Expertise:** {consultant['Operations Expertise']}")
+                                                    st.markdown(f"**💼 Marketing Expertise:** {consultant['Marketing Expertise']}")
                                                 with cols[1]:
-                                                    st.markdown(f"**📚 Areas & Skills:** {consultant['Areaskills']}")
-                                                    st.markdown(f"**🏢 Industry Skills:** {consultant['Industryskills']}")
-                                                    st.markdown(f"**📅 Consultantavailabilitystatus:** {consultant['Consultantavailabilitystatus']}")
-                                                    st.markdown(f"**📆 Anticipatedavailabilitydate:** {consultant['Anticipatedavailabilitydate']}")
+                                                    st.markdown(f"**📚 Areas & Skills:** {consultant['Area Skills']}")
+                                                    st.markdown(f"**🏢 Industry Skills:** {consultant['Industry Skills']}")
+                                                    st.markdown(f"**📅 Consultant Availability Status:** {consultant['Consultant Availability Status']}")
+                                                    st.markdown(f"**📆 Anticipated Availability Date:** {consultant['Anticipated Availability Date']}")
                                                     st.markdown(f"**📝 Comments:** {consultant['Comments']}")
                                                 
                                                 st.markdown("---")

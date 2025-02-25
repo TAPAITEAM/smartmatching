@@ -90,11 +90,11 @@ def create_consultant_vector_store(_embeddings, df):
     try:
         # Define column names
         columns = [
-            'Fullname', 'Email', 'Financeexpertise', 'Lightfinance', 'Strategyexpertise',
-            'Entrepreneurshipexpertise', 'Operationsexpertise', 'Marketingexpertise',
-            'Areasofexpertise', 'Industryexpertise', 'Otherindustryexpertise', 
-            'Otherareasofexpertise', 'Otherskills', 'Consultantavailabilitystatus', 
-            'Anticipatedavailabilitydate', 'Availabilitynotes', 'Onboardingnotes', 'Staffinginsights'
+            'Full Name', 'Email', 'Finance Expertise', 'Light Finance', 'Strategy Expertise',
+            'Entrepreneurship Expertise', 'Operations Expertise', 'Marketing Expertise',
+            'Areas of Expertise', 'Industry Expertise', 'Other Industry Expertise', 
+            'Other Areas of Expertise', 'Other Skills', 'Consultant Availability Status', 
+            'Anticipated Availability Date', 'Availability Notes', 'Onboarding Notes', 'Staffing Insights'
         ]
 
         # Add debug logging to check actual DataFrame columns
@@ -110,31 +110,31 @@ def create_consultant_vector_store(_embeddings, df):
         df.columns = [col.strip() for col in df.columns]
 
         # Create combined columns
-        df['Areaskills'] = df['Areasofexpertise'].fillna('') + '; ' + \
-                          df['Otherareasofexpertise'].fillna('') + '; ' + \
-                          df['Otherskills'].fillna('')
+        df['Area Skills'] = df['Areas of Expertise'].fillna('') + '; ' + \
+                          df['Other Areas of Expertise'].fillna('') + '; ' + \
+                          df['Other Skills'].fillna('')
         
-        df['Industryskills'] = df['Industryexpertise'].fillna('') + '; ' + \
-                              df['Otherindustryexpertise'].fillna('')
+        df['Industry Skills'] = df['Industry Expertise'].fillna('') + '; ' + \
+                              df['Other Industry Expertise'].fillna('')
         
-        df['Comments'] = df['Onboardingnotes'].fillna('') + '; ' + \
-                        df['Staffinginsights'].fillna('')
+        df['Comments'] = df['Onboarding Notes'].fillna('') + '; ' + \
+                        df['Staffing Insights'].fillna('')
 
         # Create text data by combining all fields
         text_data = [
-            f"Fullname: {fullname}; "
+            f"Full Name: {fullname}; "
             f"Email: {email}; "
-            f"Financeexpertise: {financeexpertise}; "
-            f"Lightfinance: {lightfinance}; "
-            f"Strategyexpertise: {strategyexpertise}; "
-            f"Entrepreneurshipexpertise: {entrepreneurshipexpertise}; "
-            f"Operationsexpertise: {operationsexpertise}; "
-            f"Marketingexpertise: {marketingexpertise}; "
-            f"Areaskills: {areaskills}; "
-            f"Industryskills: {industryskills}; "
-            f"Consultantavailabilitystatus: {consultantavailabilitystatus}; "
-            f"Anticipatedavailabilitydate: {anticipatedavailabilitydate}; "
-            f"Availabilitynotes: {availabilitynotes}; "
+            f"Finance Expertise: {financeexpertise}; "
+            f"Light Finance: {lightfinance}; "
+            f"Strategy Expertise: {strategyexpertise}; "
+            f"Entrepreneurship Expertise: {entrepreneurshipexpertise}; "
+            f"Operations Expertise: {operationsexpertise}; "
+            f"Marketing Expertise: {marketingexpertise}; "
+            f"Area Skills: {areaskills}; "
+            f"Industry Skills: {industryskills}; "
+            f"Consultant Availability Status: {consultantavailabilitystatus}; "
+            f"Anticipated Availability Date: {anticipatedavailabilitydate}; "
+            f"Availability Notes: {availabilitynotes}; "
             f"Comments: {comments}; "
             for (
                 fullname, email, financeexpertise, lightfinance, strategyexpertise,
@@ -142,10 +142,10 @@ def create_consultant_vector_store(_embeddings, df):
                 areaskills, industryskills, consultantavailabilitystatus,
                 anticipatedavailabilitydate, availabilitynotes, comments
             ) in zip(*[df[col] for col in [
-                'Fullname', 'Email', 'Financeexpertise', 'Lightfinance', 'Strategyexpertise',
-                'Entrepreneurshipexpertise', 'Operationsexpertise', 'Marketingexpertise',
-                'Areaskills', 'Industryskills', 'Consultantavailabilitystatus',
-                'Anticipatedavailabilitydate', 'Availabilitynotes', 'Comments'
+                'Full Name', 'Email', 'Finance Expertise', 'Light Finance', 'Strategy Expertise',
+                'Entrepreneurship Expertise', 'Operations Expertise', 'Marketing Expertise',
+                'Industry Skills', 'Industry Skills', 'Consultant Availability Status',
+                'Anticipated Availability Date', 'Availability Notes', 'Comments'
             ]])
         ]
 
@@ -206,19 +206,19 @@ def find_best_consultant_matches(vector_store, project_summary, top_k=5):
             ])
             match_analysis = analyze_consultant_match(project_summary, consultant_details)
             matches.append({
-                "Fullname": result.metadata.get('Fullname', DEFAULT_VALUE),
+                "Full Name": result.metadata.get('Full Name', DEFAULT_VALUE),
                 "Email": result.metadata.get('Email', DEFAULT_VALUE),
-                "Financeexpertise": result.metadata.get('Financeexpertise', DEFAULT_VALUE),
-                "Lightfinance": result.metadata.get('Lightfinance', DEFAULT_VALUE),
-                "Strategyexpertise": result.metadata.get('Strategyexpertise', DEFAULT_VALUE),
-                "Entrepreneurshipexpertise": result.metadata.get('Entrepreneurshipexpertise', DEFAULT_VALUE),
-                "Operationsexpertise": result.metadata.get('Operationsexpertise', DEFAULT_VALUE),
-                "Marketingexpertise": result.metadata.get('Marketingexpertise', DEFAULT_VALUE),
-                "Areaskills": result.metadata.get('Areaskills', DEFAULT_VALUE),
-                "Industryskills": result.metadata.get('Industryskills', DEFAULT_VALUE),
-                "Consultantavailabilitystatus": result.metadata.get('Consultantavailabilitystatus', DEFAULT_VALUE),
-                "Anticipatedavailabilitydate": result.metadata.get('Anticipatedavailabilitydate', DEFAULT_VALUE),
-                "Availabilitynotes": result.metadata.get('Availabilitynotes', DEFAULT_VALUE),
+                "Finance Expertise": result.metadata.get('Finance Expertise', DEFAULT_VALUE),
+                "Light Finance": result.metadata.get('Light Finance', DEFAULT_VALUE),
+                "Strategy Expertise": result.metadata.get('Strategy Expertise', DEFAULT_VALUE),
+                "Entrepreneurship Expertise": result.metadata.get('Entrepreneurship Expertise', DEFAULT_VALUE),
+                "Operations Expertise": result.metadata.get('Operations Expertise', DEFAULT_VALUE),
+                "Marketing Expertise": result.metadata.get('Marketing Expertise', DEFAULT_VALUE),
+                "Area Skills": result.metadata.get('Area Skills', DEFAULT_VALUE),
+                "Industry Skills": result.metadata.get('Industry Skills', DEFAULT_VALUE),
+                "Consultant Availability Status": result.metadata.get('Consultant Availability Status', DEFAULT_VALUE),
+                "Anticipated Availability Date": result.metadata.get('Anticipated Availability Date', DEFAULT_VALUE),
+                "Availability Notes": result.metadata.get('Availability Notes', DEFAULT_VALUE),
                 "Comments": result.metadata.get('Comments', DEFAULT_VALUE),
                 "Match Analysis": match_analysis
             })
