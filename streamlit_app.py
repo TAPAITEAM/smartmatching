@@ -65,6 +65,26 @@ def main():
 
     st.title("🤝 Project-Consultant Matcher")
 
+    # Add model selection dropdown
+    model_options = {
+        "Gemini 2.0 Flash": "gemini-2.0-flash",
+        "Gemini 2.0 Flash Lite": "gemini-2.0-flash-lite",
+        "Gemini 2.0 Pro Experimental": "gemini-2.0-pro-exp-02-05",
+    }
+    
+    selected_model = st.selectbox(
+        "🤖 Select AI Model",
+        options=list(model_options.keys()),
+        index=0,
+        help="Choose the Gemini model to use for analysis"
+    )
+    model_key = model_options[selected_model]
+    
+    # Store selected model in session state for persistence
+    if 'selected_model' not in st.session_state or st.session_state.selected_model != model_key:
+        st.session_state.selected_model = model_key
+
+
     # Create two tabs using radio buttons
     input_method = st.radio("Choose Input Method", ["📂 File Upload", "✍️ Text Query"], horizontal=True)
 
@@ -109,7 +129,7 @@ def main():
                 st.markdown("---")
                 if st.button("✨ Find Best Consultants", key="find_consultants"):
                     with st.spinner('⚙️ Processing project document...'):
-                        project_summary = generate_project_summary(file_text)
+                        project_summary = generate_project_summary(file_text, model=st.session_state.selected_model)
                         st.session_state.project_summary = project_summary
                         st.write("**📋 Project Summary:**")
                         st.write(project_summary)
@@ -120,7 +140,7 @@ def main():
                             vector_store = create_consultant_vector_store(embeddings, consultant_df)
                             if vector_store:
                                 with st.spinner('🔍 Finding best consultant matches...'):
-                                    matches = find_best_consultant_matches(vector_store, project_summary)
+                                    matches = find_best_consultant_matches(vector_store, project_summary, model=st.session_state.selected_model)
                                     st.session_state.current_matches = matches
                                     if matches:
                                         st.write("🎯 **Best Matching Consultants**")
@@ -175,7 +195,7 @@ def main():
                     consultant_df = load_consultant_data()
                     vector_store = create_consultant_vector_store(embeddings, consultant_df)
                     if vector_store:
-                        response = chat_with_consultant_database(prompt, vector_store)
+                        response = chat_with_consultant_database(prompt, vector_store, consultant_df, model=st.session_state.selected_model)
                         st.markdown(response)
                         st.session_state.messages.append({"role": "assistant", "content": response})
                     else:

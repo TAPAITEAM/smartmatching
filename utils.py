@@ -100,3 +100,4 @@ def load_consultant_data():
     except Exception as e:
         st.error(f"❌ Error loading consultant data: {e}")
         return None
+
