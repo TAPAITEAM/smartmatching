@@ -117,7 +117,7 @@ def search_consultants(state: ConsultantQueryState, vector_store) -> ConsultantQ
     # If this is a criteria-based search with criteria
     if state.analysis and state.analysis.is_criteria_search and state.analysis.criteria:
         # Step the original vector search to get an initial result set
-        vector_results = vector_store.similarity_search(state.query, k=30)
+        vector_results = vector_store.similarity_search(state.query, k=50)
         
         # Filter the results based on the extracted criteria
         filtered_results = []

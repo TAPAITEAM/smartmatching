@@ -147,7 +147,7 @@ def create_consultant_vector_store(_embeddings, df):
             ) in zip(*[df[col] for col in [
                 'Full Name', 'Email', 'Finance Expertise', 'Light Finance', 'Strategy Expertise',
                 'Entrepreneurship Expertise', 'Operations Expertise', 'Marketing Expertise',
-                'Industry Skills', 'Industry Skills', 'Consultant Availability Status',
+                'Area Skills', 'Industry Skills', 'Consultant Availability Status',
                 'Anticipated Availability Date', 'Availability Notes', 'Comments'
             ]])
         ]
