@@ -5,8 +5,9 @@ from main import (
     create_consultant_vector_store,
     find_best_consultant_matches,
     process_uploaded_file,
-    chat_with_consultant_database
+    # chat_with_consultant_database
 )
+from chat import chat_with_consultant_database
 from utils import check_password, save_feedback, load_consultant_data
 
 # Streamlit UI setup
