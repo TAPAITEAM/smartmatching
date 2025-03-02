@@ -96,14 +96,22 @@ def analyze_query(state: ConsultantQueryState) -> ConsultantQueryState:
        - field: "finance", value: "expertise"
        - field: "industry", value: "healthcare"
     
-    2. "Get me consultants who have expertise in both finance and marketing" should extract:
-       - field: "finance", value: "expertise"
-       - field: "marketing", value: "expertise"
+    2. Please consider typos that might be in the query. for example: "Find consultants who have expertise in both stretagy and operation" should extract:
+       - field: "operations", value: "expertise"
+       - field: "strategy", value: "expertise"
 
-    3. "Who is available next month?" should extract:
+    3. "Looking for consultants skilled in operations and with experience in tech companies" should extract:
+       - field: "operations", value: "expertise"
+       - field: "industry", value: "tech"
+
+    4. "Who is available next month?" should extract:
        - field: "Consultant Availability Status", value: "available"
 
-    4. "Tell me about the consultant database" should NOT be a criteria search.
+    5. "Tell me about the consultant database" should NOT be a criteria search.
+
+    6. "I need a consultant who is an expert in entrepreneurship and available immediately" should extract:
+       - field: "entrepreneurship", value: "expertise"
+       - field: "Consultant Availability Status", value: "available"
     """
     
     # Get structured output from the LLM
