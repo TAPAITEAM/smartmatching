@@ -2,7 +2,6 @@ from typing import List, Optional
 import os
 from pydantic import BaseModel, Field
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.messages import HumanMessage
 from langgraph.graph import END, StateGraph
 import streamlit as st
 

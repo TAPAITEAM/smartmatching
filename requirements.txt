@@ -10,6 +10,7 @@ langchain-openai
 langchain-google-genai
 langchain-community
 faiss-cpu
+langgraph
 
 pypdf2
 docx
