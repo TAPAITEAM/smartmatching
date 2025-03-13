@@ -196,7 +196,7 @@ def analyze_consultant_match(project_summary, consultant_details, model=GEMINI_2
 @traceable(
         run_type="retriever"
 )
-def find_best_consultant_matches(vector_store, project_summary, model=GEMINI_2_0_FLASH, top_k=5):
+def find_best_consultant_matches(vector_store, project_summary, model=GEMINI_2_0_FLASH, top_k=8):
     """Find the best consultant matches based on project summary"""
     if not vector_store:
         return []
