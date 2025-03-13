@@ -34,7 +34,6 @@ os.environ["LANGCHAIN_PROJECT"] = "Project-Consultant-Matcher-TAP"
 @traceable(
     metadata={"embedding_model": "gemini/text-embedding-004"},
 )
-
 def get_embeddings():
     return GoogleGenerativeAIEmbeddings(model=GEMINI_TEXT_EMBEDDING_004)
 

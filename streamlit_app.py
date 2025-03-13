@@ -92,35 +92,7 @@ def main():
     if input_method == "📂 File Upload":
         # File upload and processing section
         uploaded_file = st.file_uploader("Upload Project Document", type=["pdf", "docx", "txt"])
-        
-        # Display stored results if they exist
-        if 'project_summary' in st.session_state:
-            st.write("**📋 Project Summary:**")
-            st.write(st.session_state.project_summary)
-            
-            if 'current_matches' in st.session_state and st.session_state.current_matches:
-                st.write("🎯 **Best Matching Consultants**")
-                for i, consultant in enumerate(st.session_state.current_matches, 1):
-                    with st.expander(f"👨‍💼 Consultant {i}: {consultant['Full Name']}"):
-                        cols = st.columns(2)
-                        with cols[0]:
-                            st.markdown(f"**💸 Finance Expertise:** {consultant['Finance Expertise']}")
-                            st.markdown(f"**💰 Light Finance:** {consultant['Light Finance']}")
-                            st.markdown(f"**🎖️ Strategy Expertise:** {consultant['Strategy Expertise']}")
-                            st.markdown(f"**📌 Entrepreneurship Expertise:** {consultant['Entrepreneurship Expertise']}")
-                            st.markdown(f"**🚚 Operations Expertise:** {consultant['Operations Expertise']}")
-                            st.markdown(f"**💼 Marketing Expertise:** {consultant['Marketing Expertise']}")
-                        with cols[1]:
-                            st.markdown(f"**📚 Areas & Skills:** {consultant['Area Skills']}")
-                            st.markdown(f"**🏢 Industry Skills:** {consultant['Industry Skills']}")
-                            st.markdown(f"**📅 Consultant Availability Status:** {consultant['Consultant Availability Status']}")
-                            st.markdown(f"**📆 Anticipated Availability Date:** {consultant['Anticipated Availability Date']}")
-                            st.markdown(f"**📝 Comments:** {consultant['Comments']}")
-                        
-                        st.markdown("---")
-                        st.markdown("**🔍 Match Analysis:**")
-                        st.markdown(consultant['Match Analysis'])
-        
+                
         # Process new file upload if provided
         if uploaded_file is not None:
             file_text = process_uploaded_file(uploaded_file)

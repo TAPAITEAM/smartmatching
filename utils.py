@@ -90,7 +90,7 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip()
 
 # Load consultant data from Google Sheets
-@st.cache_data(ttl=600)
+@st.cache_data(ttl=300)
 def load_consultant_data():
     try:
         from streamlit_gsheets import GSheetsConnection
