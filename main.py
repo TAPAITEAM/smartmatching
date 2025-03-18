@@ -99,7 +99,8 @@ def create_consultant_vector_store(_embeddings, df):
             'Entrepreneurship Expertise', 'Operations Expertise', 'Marketing Expertise',
             'Areas of Expertise', 'Industry Expertise', 'Other Industry Expertise', 
             'Other Areas of Expertise', 'Other Skills', 'Consultant Availability Status', 
-            'Anticipated Availability Date', 'Availability Notes', 'Onboarding Notes', 'Staffing Insights'
+            'Anticipated Availability Date', 'Availability Notes', 'Onboarding Notes', 'Staffing Insights',
+            'Bio', 'Finished Projects', 'Languages for Service',
         ]
 
         # Validate DataFrame columns
@@ -138,16 +139,21 @@ def create_consultant_vector_store(_embeddings, df):
             f"Anticipated Availability Date: {anticipatedavailabilitydate}; "
             f"Availability Notes: {availabilitynotes}; "
             f"Comments: {comments}; "
+            f"Bio:{bio}; "
+            f"Finished Projects: {finishedprojects}; "
+            f"Languages for Service: {languagesforservice}; "  
             for (
                 fullname, email, financeexpertise, lightfinance, strategyexpertise,
                 entrepreneurshipexpertise, operationsexpertise, marketingexpertise,
                 areaskills, industryskills, consultantavailabilitystatus,
-                anticipatedavailabilitydate, availabilitynotes, comments
+                anticipatedavailabilitydate, availabilitynotes, comments, bio,
+                finishedprojects, languagesforservice,
             ) in zip(*[df[col] for col in [
                 'Full Name', 'Email', 'Finance Expertise', 'Light Finance', 'Strategy Expertise',
                 'Entrepreneurship Expertise', 'Operations Expertise', 'Marketing Expertise',
                 'Area Skills', 'Industry Skills', 'Consultant Availability Status',
-                'Anticipated Availability Date', 'Availability Notes', 'Comments'
+                'Anticipated Availability Date', 'Availability Notes', 'Comments',
+                'Bio', 'Finished Projects', 'Languages for Service',
             ]])
         ]
 
@@ -223,6 +229,9 @@ def find_best_consultant_matches(vector_store, project_summary, model=GEMINI_2_0
                 "Anticipated Availability Date": result.metadata.get('Anticipated Availability Date', DEFAULT_VALUE),
                 "Availability Notes": result.metadata.get('Availability Notes', DEFAULT_VALUE),
                 "Comments": result.metadata.get('Comments', DEFAULT_VALUE),
+                "Bio": result.metadata.get('Bio', DEFAULT_VALUE),
+                "Finished Projects": result.metadata.get('Finished Projects', DEFAULT_VALUE),
+                "Languages for Service": result.metadata.get('Languages for Service', DEFAULT_VALUE),
                 "Match Analysis": match_analysis
             })
         return matches

@@ -95,7 +95,7 @@ def load_consultant_data():
     try:
         from streamlit_gsheets import GSheetsConnection
         conn = st.connection("gsheets", type=GSheetsConnection)
-        df = conn.read(worksheet="Active Consultants Skillset", ttl="10m", usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17], nrows=1000)
+        df = conn.read(worksheet="Active Consultants Skillset", ttl="10m", usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], nrows=1000)
         return df
     except Exception as e:
         st.error(f"❌ Error loading consultant data: {e}")

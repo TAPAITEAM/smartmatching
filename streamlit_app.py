@@ -127,6 +127,8 @@ def main():
                                                     st.markdown(f"**📌 Entrepreneurship Expertise:** {consultant['Entrepreneurship Expertise']}")
                                                     st.markdown(f"**🚚 Operations Expertise:** {consultant['Operations Expertise']}")
                                                     st.markdown(f"**💼 Marketing Expertise:** {consultant['Marketing Expertise']}")
+                                                    st.markdown(f"**🔖 Finished Projects:** {consultant['Finished Projects']}")
+                                                    st.markdown(f"**🗣️ Languages for Service:** {consultant['Languages for Service']}")
                                                 with cols[1]:
                                                     st.markdown(f"**📚 Areas & Skills:** {consultant['Area Skills']}")
                                                     st.markdown(f"**🏢 Industry Skills:** {consultant['Industry Skills']}")
