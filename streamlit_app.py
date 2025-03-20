@@ -135,6 +135,7 @@ def main():
                                                     st.markdown(f"**📅 Consultant Availability Status:** {consultant['Consultant Availability Status']}")
                                                     st.markdown(f"**📆 Anticipated Availability Date:** {consultant['Anticipated Availability Date']}")
                                                     st.markdown(f"**📝 Comments:** {consultant['Comments']}")
+                                                    st.markdown(f"**🏘️ Home Address:** {consultant['Home Address']}")
                                                 
                                                 st.markdown("---")
                                                 st.markdown("**🔍 Match Analysis:**")

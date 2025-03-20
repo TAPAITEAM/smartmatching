@@ -100,7 +100,7 @@ def create_consultant_vector_store(_embeddings, df):
             'Areas of Expertise', 'Industry Expertise', 'Other Industry Expertise', 
             'Other Areas of Expertise', 'Other Skills', 'Consultant Availability Status', 
             'Anticipated Availability Date', 'Availability Notes', 'Onboarding Notes', 'Staffing Insights',
-            'Bio', 'Finished Projects', 'Languages for Service',
+            'Bio', 'Finished Projects', 'Languages for Service', 'Home Address'
         ]
 
         # Validate DataFrame columns
@@ -142,18 +142,19 @@ def create_consultant_vector_store(_embeddings, df):
             f"Bio:{bio}; "
             f"Finished Projects: {finishedprojects}; "
             f"Languages for Service: {languagesforservice}; "  
+            f"Home Address: {df['Home Address']}"
             for (
                 fullname, email, financeexpertise, lightfinance, strategyexpertise,
                 entrepreneurshipexpertise, operationsexpertise, marketingexpertise,
                 areaskills, industryskills, consultantavailabilitystatus,
                 anticipatedavailabilitydate, availabilitynotes, comments, bio,
-                finishedprojects, languagesforservice,
+                finishedprojects, languagesforservice, homeaddress
             ) in zip(*[df[col] for col in [
                 'Full Name', 'Email', 'Finance Expertise', 'Light Finance', 'Strategy Expertise',
                 'Entrepreneurship Expertise', 'Operations Expertise', 'Marketing Expertise',
                 'Area Skills', 'Industry Skills', 'Consultant Availability Status',
                 'Anticipated Availability Date', 'Availability Notes', 'Comments',
-                'Bio', 'Finished Projects', 'Languages for Service',
+                'Bio', 'Finished Projects', 'Languages for Service', 'Home Address'
             ]])
         ]
 
@@ -232,6 +233,7 @@ def find_best_consultant_matches(vector_store, project_summary, model=GEMINI_2_0
                 "Bio": result.metadata.get('Bio', DEFAULT_VALUE),
                 "Finished Projects": result.metadata.get('Finished Projects', DEFAULT_VALUE),
                 "Languages for Service": result.metadata.get('Languages for Service', DEFAULT_VALUE),
+                "Home Address": result.metadata.get('Home Address', DEFAULT_VALUE),
                 "Match Analysis": match_analysis
             })
         return matches
