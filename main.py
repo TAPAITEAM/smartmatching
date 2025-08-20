@@ -1,10 +1,11 @@
 import os
 import json
+import asyncio
 
 DEFAULT_VALUE = "N/A"
-GEMINI_2_0_FLASH = "gemini-2.0-flash"
-GEMINI_2_0_FLASH_LITE  = "gemini-2.0-flash-lite"
-GEMINI_2_0_PRO = "gemini-2.0-pro-exp-02-05"
+GEMINI_FLASH = "gemini-2.5-flash"
+GEMINI_FLASH_LITE  = "gemini-2.5-flash-lite"
+GEMINI_PRO = "gemini-2.5-pro"
 GEMINI_TEXT_EMBEDDING_004 = "models/text-embedding-004"
 
 # Langchain and AI libraries
@@ -23,7 +24,6 @@ import streamlit as st
 
 # Set API keys from Streamlit secrets
 os.environ["GOOGLE_API_KEY"] = st.secrets["general"]["GOOGLE_API_KEY"]
-# os.environ["OPENAI_API_KEY"] = st.secrets["general"]["OPENAI_API_KEY"]
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_API_KEY"] = st.secrets["LANGCHAIN_API_KEY"]["API_KEY"]
 os.environ["LANGCHAIN_ENDPOINT"]="https://api.smith.langchain.com"
@@ -35,7 +35,20 @@ os.environ["LANGCHAIN_PROJECT"] = "Project-Consultant-Matcher-TAP"
     metadata={"embedding_model": "gemini/text-embedding-004"},
 )
 def get_embeddings():
-    return GoogleGenerativeAIEmbeddings(model=GEMINI_TEXT_EMBEDDING_004)
+    """
+    Initializes and returns the Google Generative AI Embeddings model,
+    ensuring an asyncio event loop is available.
+    """
+    try:
+        # Check if an event loop is already running
+        loop = asyncio.get_running_loop()
+    except RuntimeError:
+        # If not, create a new one
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+
+    # Now, the initialization will work correctly
+    return GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
 
 # Load consultant data
 def process_uploaded_file(uploaded_file):
@@ -53,7 +66,7 @@ def process_uploaded_file(uploaded_file):
 
 # Project summary function using AI
 @traceable()
-def generate_project_summary(text, model=GEMINI_2_0_FLASH, prompt=PROJECT_SUMMARY_PROMPT):
+def generate_project_summary(text, model=GEMINI_FLASH, prompt=PROJECT_SUMMARY_PROMPT):
     """Generate structured project summary using AI"""
     text = clean_text(text)
     max_length = 10000
@@ -181,7 +194,7 @@ def create_consultant_vector_store(_embeddings, df):
 
 # Analyze consultant match with AI
 @traceable()
-def analyze_consultant_match(project_summary, consultant_details, model=GEMINI_2_0_FLASH, prompt=CONSULTANT_MATCH_PROMPT):
+def analyze_consultant_match(project_summary, consultant_details, model=GEMINI_FLASH, prompt=CONSULTANT_MATCH_PROMPT):
     """Generate detailed analysis of consultant match"""
     llm = ChatGoogleGenerativeAI(
         model=model,
@@ -203,7 +216,7 @@ def analyze_consultant_match(project_summary, consultant_details, model=GEMINI_2
 @traceable(
         run_type="retriever"
 )
-def find_best_consultant_matches(vector_store, project_summary, model=GEMINI_2_0_FLASH, top_k=8):
+def find_best_consultant_matches(vector_store, project_summary, model=GEMINI_FLASH, top_k=8):
     """Find the best consultant matches based on project summary"""
     if not vector_store:
         return []
@@ -246,7 +259,7 @@ def find_best_consultant_matches(vector_store, project_summary, model=GEMINI_2_0
 
 # Chat with consultant database - Enhanced version
 @traceable()
-def chat_with_consultant_database(prompt, vector_store, df, model=GEMINI_2_0_FLASH):
+def chat_with_consultant_database(prompt, vector_store, df, model=GEMINI_FLASH):
     """
     Chat with the consultant database with improved handling of column-based queries.
     This enhanced version can better answer questions about consultants with multiple criteria.
